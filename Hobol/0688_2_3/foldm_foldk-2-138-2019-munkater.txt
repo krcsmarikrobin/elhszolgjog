@@ -1,0 +1,127 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/138/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.02.21 01:49:34 
+**********************************************************************************************
+ 1132 HOBOL   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0688/2    
+          .   szántó                 4             4.3403               75.52           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      4.3403               75.52          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 31972/2009.04.01
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32659/1997.03.21
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 0688 hrsz-bõl. 
+   
+ 
+______________________________________________________________________________________________ 
+    0688/3    
+          .   szántó                              15.4182              243.78          
+                            ------------------------------------------------------------------
+                                     4            10.4182              181.28        
+                                     5             5.0000               62.50        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     15.4182              243.78          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 41100/1998.12.01
+          Tul.hányad: 9611/24378          
+          Szerz.jogcím: földhöz juttatás
+          Név: Tóth Zsolt 
+          Cím: 7971 HOBOL, Mátyás király utca 40.
+ 
+          Sorszám: 4      Bejegyzõ hat.szám: 41119/1998.12.02
+          Tul.hányad: 5228/24378          
+          Szerz.jogcím: földhöz juttatás
+          Név: Tóth László 
+          Cím: 7971 HOBOL, Mátyás király utca 40.
+ 
+          Sorszám: 11      Bejegyzõ hat.szám: 41168/2/1998.12.02
+          Tul.hányad: 5333/24378          
+          Szerz.jogcím: részarány kiadás
+          Név: Tóth Zsolt 
+          Cím: 7971 HOBOL, Mátyás király utca 40.
+ 
+          Sorszám: 19      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 4069/24378          
+          Szerz.jogcím: birtokösszevonási célú önkéntes földcsere
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+          Sorszám: 20      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 137/24378           
+          Szerz.jogcím: csere
+          Név: Tóth Gyula 
+          Cím: 7971 HOBOL, Mátyás király utca 26
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32659/1997.03.21
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 0688 hrsz-bõl. 
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 33007/1999.04.12
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/5-10       sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 6      Bejegyzõ hat.szám: 33735/2015.09.29
+          Jog-tény neve: Egyetemleges jelzálogjog
+          erejéig  
+            Név: SZENTLÕRINC-ORMÁNSÁG TAKARÉKSZÖVETKEZET
+            Cím: 7940 SZENTLÕRINC Munkácsy Mihály utca 19.
+           Lásd még a hoboli 0660/5 helyrajzi számú ingatlant is.
+          Utalások: II/3-4, II/11
+   
+          Sorszám: 7      Bejegyzõ hat.szám: 33735/2015.09.29
+          Jog-tény neve: Elidegenítési és terhelési tilalom
+          bejegyzett jelzálog biztositására  
+            Név: SZENTLÕRINC-ORMÁNSÁG TAKARÉKSZÖVETKEZET
+            Cím: 7940 SZENTLÕRINC Munkácsy Mihály utca 19.
+          Utalások: III/6
+   
+          Sorszám: 8      Bejegyzõ hat.szám: 31434/3/2017.02.17
+          Jog-tény neve: Végrehajtási jog
+          és járulékai erejéig 
+            Név: SZENTLÕRINC-ORMÁNSÁG TAKARÉKSZÖVETKEZET
+            Cím: 7940 SZENTLÕRINC Munkácsy Mihály utca 19.
+           Ötvös Lajos önálló bír. vh. Ügyszám: 051.V.2460/2016/25.
+          Utalások: II/3, II/11
+   
+ 
+********************************************************************************************** 
+1132 HOBOL KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             2   
+TERÜLET  ÖSSZESEN (ha.m2) :       19.7585   
+KTJ. ÖSSZESEN (K.f./fill.):        319.30 
+********************************************************************************************** 
+1132 HOBOL FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             2   
+TERÜLET  ÖSSZESEN (ha.m2) :       19.7585   
+KTJ. ÖSSZESEN (K.f./fill.):        319.30 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.02.21 01:49:37

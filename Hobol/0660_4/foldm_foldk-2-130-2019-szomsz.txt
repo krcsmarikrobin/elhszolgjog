@@ -1,0 +1,179 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/130/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.02.21 12:04:51 
+**********************************************************************************************
+ 1132 HOBOL   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0657/     
+          .   kivett                               1.0683                0.00           
+                 közút 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.0683                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 34366/1992.11.23
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás 1991.XXXIII.tv.1.§.(2
+          Név: HOBOL KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7971 HOBOL, Dobó István utca 2
+ 
+______________________________________________________________________________________________ 
+    0659/     
+          .   kivett                               1.6116                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.6116                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 34366/1992.11.23
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás 1991.XXXIII.tv.1.§.(2
+          Név: HOBOL KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7971 HOBOL, Dobó István utca 2
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 38220/3/1998.11.02
+          Jog-tény neve: Földmérési jelek elhelyezését
+          biztosító használati jog  
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi István tér 9
+   
+ 
+______________________________________________________________________________________________ 
+    0660/3    
+          .   szántó                               2.7991               38.88          
+                            ------------------------------------------------------------------
+                                     4             0.8382               14.58        
+                                     5             1.9115               23.89        
+                                     6             0.0494                0.41        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      2.7991               38.88          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 41782/1998.12.14
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: részarány kiadás
+          Név: Stefán Tóth 
+          Cím: Németország,  
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32655/1997.03.21
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 0660 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 41782/1998.12.14
+          Jog-tény neve: Özvegyi jog
+            Név: Tóth Istvánné 
+            Cím: 7971 HOBOL,Mátyás király utca 14
+          Utalások: II/2
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 33007/1999.04.12
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+    0660/4    
+          .   szántó                               3.0173               39.06          
+                            ------------------------------------------------------------------
+                                     4             0.8026               13.97        
+                                     5             1.5979               19.97        
+                                     6             0.6168                5.12        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      3.0173               39.06          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 41833/1998.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: részarány kiadás
+          Név: Tóth Istvánné 
+          Cím: 7971 HOBOL, Mátyás király utca 14
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32655/1997.03.21
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 0660 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 33007/1999.04.12
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+    0660/5    
+          .   szántó                               5.8391               72.82          
+                            ------------------------------------------------------------------
+                                     4             1.4870               25.87        
+                                     5             2.5786               32.23        
+                                     6             1.7735               14.72        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      5.8391               72.82          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 41837/1998.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földhöz juttatás
+          Név: Tóth László 
+          Cím: 7971 HOBOL, Mátyás király utca 40.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 6      Bejegyzõ hat.szám: 33735/2015.09.29
+          Jog-tény neve: Egyetemleges jelzálogjog
+          erejéig  
+            Név: SZENTLÕRINC-ORMÁNSÁG TAKARÉKSZÖVETKEZET
+            Cím: 7940 SZENTLÕRINC Munkácsy Mihály utca 19.
+           Lásd még a hoboli 0688/3 helyrajzi számú ingatlant is.
+   
+          Sorszám: 7      Bejegyzõ hat.szám: 33735/2015.09.29
+          Jog-tény neve: Elidegenítési és terhelési tilalom
+          bejegyzett jelzálog biztositására  
+            Név: SZENTLÕRINC-ORMÁNSÁG TAKARÉKSZÖVETKEZET
+            Cím: 7940 SZENTLÕRINC Munkácsy Mihály utca 19.
+          Utalások: III/6
+   
+          Sorszám: 8      Bejegyzõ hat.szám: 31433/3/2017.02.17
+          Jog-tény neve: Végrehajtási jog
+          és járulékai erejéig 
+            Név: SZENTLÕRINC-ORMÁNSÁG TAKARÉKSZÖVETKEZET
+            Cím: 7940 SZENTLÕRINC Munkácsy Mihály utca 19.
+           Ötvös Lajos önálló bír. vh. Ügyszám: 051.V.2461/2016/24.
+   
+          Sorszám: 10      Bejegyzõ hat.szám: 34729/2/2018.08.09
+          Jog-tény neve: Árverés kitûzése
+            Név: BAMKH PÉCSI JÁRÁSI HIVATAL AGRÁRÜGYI FÕOSZTÁLY FÖLDMÛVELÉSÜGYI OSZTÁLY
+            Cím: 7633 PÉCS Lázár Vilmos utca 12.
+           Árverés ideje: 2018.10.30.  9.00 óra,  Vh.ügyszám: 051.V.2461/2016/59,  
+          Árv.azonosító: BA-04/FO/00990/2018
+   
+ 
+********************************************************************************************** 
+1132 HOBOL KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       14.3354   
+KTJ. ÖSSZESEN (K.f./fill.):        150.76 
+********************************************************************************************** 
+1132 HOBOL FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       14.3354   
+KTJ. ÖSSZESEN (K.f./fill.):        150.76 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.02.21 12:04:57

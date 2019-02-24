@@ -1,0 +1,156 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/132/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.02.21 01:15:44 
+**********************************************************************************************
+ 1132 HOBOL   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0610/     
+          .   szántó                              27.4805              270.59          
+                            ------------------------------------------------------------------
+                                     4             5.0000               87.00        
+                                     5             2.0000               25.00        
+                                     6            17.4805              145.09        
+                                     7             3.0000               13.50        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     27.4805              270.59          
+   
+   Széljegyzett jogosultak
+          Név:Bisztricz Lajos 
+            Cím:7971 HOBOL,Asztalos János utca 34
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 41064/1998.12.01
+          Tul.hányad: 6606/27059          
+          Szerz.jogcím: részarány kiadás
+          Név: Ferencz Istvánné 
+          Cím: 2030 ÉRD, József tér 6.
+ 
+          Sorszám: 12      Bejegyzõ hat.szám: 34561/1999.06.17
+          Tul.hányad: 181/27059           
+          Szerz.jogcím: földhöz juttatás
+          Név: Tóth László 
+          Cím: 7971 HOBOL, Mátyás király utca 40.
+ 
+          Sorszám: 21      Bejegyzõ hat.szám: 36715/2004.10.12
+          Tul.hányad: 424/27059           
+          Szerz.jogcím: öröklés
+          Név: Ferencz Istvánné 
+          Cím: 2030 ÉRD, József tér 6.
+ 
+          Sorszám: 25      Bejegyzõ hat.szám: 32191/2007.02.27
+          Tul.hányad: 474/27059           
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Zoltán 
+          Cím: BÜRÜS, Keselõc puszta 072/2. 7973
+ 
+          Sorszám: 27      Bejegyzõ hat.szám: 32078/2011.04.13
+          Tul.hányad: 10/27059            
+          Szerz.jogcím: csere
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 28      Bejegyzõ hat.szám: 32103/2/2011.04.14
+          Tul.hányad: 2020/27059          
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 29      Bejegyzõ hat.szám: 32400/2/2012.04.10
+          Tul.hányad: 6658/27059          
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 30      Bejegyzõ hat.szám: 30128/2013/2012.12.27
+          Tul.hányad: 587/27059           
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 31      Bejegyzõ hat.szám: 30057/2/2013.01.03
+          Tul.hányad: 1048/27059          
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 32      Bejegyzõ hat.szám: 31771/2/2013.04.08
+          Tul.hányad: 716/27059           
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 33      Bejegyzõ hat.szám: 30220/2/2015.01.10
+          Tul.hányad: 7029/27059          
+          Szerz.jogcím: adásvétel
+          Név: Bisztricz Lajos 
+          Cím: 7971 HOBOL, Asztalos János utca 34
+ 
+          Sorszám: 34      Bejegyzõ hat.szám: 33364/2016.06.21
+          Tul.hányad: 1306/27059          
+          Szerz.jogcím: öröklés
+          Név: Petrányi Józsefné 
+          Cím: 7677 HOBOL, Mátyás király utca 33.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 2554/1978.12.11
+          Jog-tény neve: Földmérési jelek elhelyezését
+          biztosító használati jog  
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi István tér 9
+   
+          Sorszám: 4      Bejegyzõ hat.szám: 33007/1999.04.12
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-10      sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 7      Bejegyzõ hat.szám: 33071/2011.06.09
+          Jog-tény neve: Jelzálogjog
+          és járulékai erejéig 
+            Név: SZIGETVÁRI TAKARÉKSZÖVETKEZET
+            Cím: 7900 SZIGETVÁR József Attila utca 19
+          Utalások: II/27-28
+   
+          Sorszám: 8      Bejegyzõ hat.szám: 30680/2015.02.17
+          Jog-tény neve: Jelzálogjog
+          erejéig  
+            Név: SZIGETVÁRI TAKARÉKSZÖVETKEZET
+            Cím: 7900 SZIGETVÁR József Attila utca 19
+          Utalások: II/33
+   
+          Sorszám: 9      Bejegyzõ hat.szám: 30680/2015.02.17
+          Jog-tény neve: Elidegenítési és terhelési tilalom
+          bejegyzett jelzálog biztositására  
+            Név: SZIGETVÁRI TAKARÉKSZÖVETKEZET
+            Cím: 7900 SZIGETVÁR József Attila utca 19
+          Utalások: III/8
+   
+ 
+********************************************************************************************** 
+1132 HOBOL KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       27.4805   
+KTJ. ÖSSZESEN (K.f./fill.):        270.59 
+********************************************************************************************** 
+1132 HOBOL FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       27.4805   
+KTJ. ÖSSZESEN (K.f./fill.):        270.59 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.02.21 01:15:47

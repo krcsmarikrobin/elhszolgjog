@@ -1,0 +1,73 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/146/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Mohácsi Zoltán
+    DATUM: 2019.02.25 11:54:59 
+**********************************************************************************************
+ 1132 HOBOL   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0675/1    
+          .   szántó                              21.4108              270.96          
+                            ------------------------------------------------------------------
+                                     4             4.8569               84.51        
+                                     5            11.6781              145.98        
+                                     6             4.8758               40.47        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     21.4108              270.96          
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 30018/5/1995.01.05  
+          Kárpótlás
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 34001/1999.05.20
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Füzesi Tivadar Henrik 
+          Cím: D-71263 Weil der Stadt,       , Hohenzollern Str.81.           Németország
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 30018/3/1995.01.04
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.kialakitva a 0675 hrsz-bõl  
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 34001/1999.05.20
+          Jog-tény neve: Holtig tartó haszonélvezeti jog
+            Név: Füzesi György Alfréd 
+            Cím: 7629 PÉCS,Szabolcsi út 31/1
+          Utalások: II/2
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 34001/1999.05.20
+          Jog-tény neve: Holtig tartó haszonélvezeti jog
+            Név: Weil Gertrud Anna 
+            Cím: D-71263 Weil der Stadt        ,Hohenzollern Str.81. 
+          Utalások: II/2
+   
+ 
+********************************************************************************************** 
+1132 HOBOL KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       21.4108   
+KTJ. ÖSSZESEN (K.f./fill.):        270.96 
+********************************************************************************************** 
+1132 HOBOL FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       21.4108   
+KTJ. ÖSSZESEN (K.f./fill.):        270.96 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.02.25 11:55:01

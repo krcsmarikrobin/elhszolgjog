@@ -1,0 +1,92 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/188/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Mohácsi Zoltán
+    DATUM: 2019.03.13 10:26:01 
+**********************************************************************************************
+ 1291 NEMESKE   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     053/3    
+          .   szántó                 5            11.0620              138.28           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     11.0620              138.28          
+   
+   Széljegyzett jogosultak
+          Név:Golobics Melinda 
+            Cím:7900 SZIGETVÁR,Szent István lakótelep 25. fsz. 4
+ 
+   Tulajdonosi adatok
+          Sorszám: 9      Bejegyzõ hat.szám: 37616/2006.09.19
+          Tul.hányad: 4860/55312          
+          Szerz.jogcím: öröklés
+          Név: Csirke Antalné 
+          Cím: 7900 SZIGETVÁR, Szent István lakótelep 28 1. emelet 11
+ 
+          Sorszám: 15      Bejegyzõ hat.szám: 35336/2010.12.22
+          Tul.hányad: 2447/55312          
+          Szerz.jogcím: öröklés
+          Név: Csirke Antalné 
+          Cím: 7900 SZIGETVÁR, Szent István lakótelep 28 1. emelet 11
+ 
+          Sorszám: 17      Bejegyzõ hat.szám: 30378/2/2011.01.21
+          Tul.hányad: 3938/55312          
+          Szerz.jogcím: öröklés
+          Név: Csirke Antalné 
+          Cím: 7900 SZIGETVÁR, Szent István lakótelep 28 1. emelet 11
+ 
+          Sorszám: 20      Bejegyzõ hat.szám: 33956/2011.08.04
+          Tul.hányad: 2447/55312          
+          Szerz.jogcím: öröklés
+          Név: Somogyvári Zoltán 
+          Cím: 7985 NAGYDOBSZA, Hunyadi utca 65
+ 
+          Sorszám: 22      Bejegyzõ hat.szám: 30218/2015.01.10
+          Tul.hányad: 25375/55312         
+          Szerz.jogcím: ajándékozás
+          Név: Golobics Melinda 
+          Cím: 7900 SZIGETVÁR, Szent István lakótelep 25. fsz. 4
+ 
+          Sorszám: 23      Bejegyzõ hat.szám: 33544/2/2018.06.14
+          Tul.hányad: 16245/55312         
+          Szerz.jogcím: adásvétel
+          Név: Werner Hirsch 
+          Cím: 7981 MERENYE, Kossuth utca 24
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 31868/1999.02.22
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.kialakítva a 053 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 31870/1999.02.22
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-5        sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+********************************************************************************************** 
+1291 NEMESKE KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       11.0620   
+KTJ. ÖSSZESEN (K.f./fill.):        138.28 
+********************************************************************************************** 
+1291 NEMESKE FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       11.0620   
+KTJ. ÖSSZESEN (K.f./fill.):        138.28 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.13 10:26:03

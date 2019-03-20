@@ -1,0 +1,762 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/197/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.03.18 10:11:16 
+**********************************************************************************************
+ 1294 PETTEND   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+      09/9    
+          .   legelõ                 3             9.8812               88.93           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      9.8812               88.93          
+   
+   Széljegyzett jogosultak
+          Név:Vajda Dezsõ 
+            Cím:7900 SZIGETVÁR,Juranics utca 13.
+ 
+   Tulajdonosi adatok
+          Sorszám: 10      Bejegyzõ hat.szám: 31220/2008.02.13
+          Tul.hányad: 4279/17786          
+          Szerz.jogcím: öröklés és ajándékozás
+          Név: Benkõ János Zoltán 
+          Cím: 7972 PETTEND, Kossuth Lajos utca 12.
+ 
+          Sorszám: 11      Bejegyzõ hat.szám: 31220/2008.02.13
+          Tul.hányad: 4279/17786          
+          Szerz.jogcím: öröklés és ajándékozás
+          Név: Benkõ Tihamér 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 63
+ 
+          Sorszám: 13      Bejegyzõ hat.szám: 34256/2011.08.22
+          Tul.hányad: 7058/17786          
+          Szerz.jogcím: ajándékozás
+          Név: Vajda Dezsõ 
+          Cím: 7900 SZIGETVÁR, Juranics utca 13.
+ 
+          Sorszám: 14      Bejegyzõ hat.szám: 34500/2/2011.09.09
+          Tul.hányad: 2170/17786          
+          Szerz.jogcím: adásvétel
+          Név: Vajda Dezsõ 
+          Cím: 7900 SZIGETVÁR, Juranics utca 13.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 30082/1999.01.05
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 09/4 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 32069/1999.03.03
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-4        sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 5      Bejegyzõ hat.szám: 34256/2011.08.22
+          Jog-tény neve: Holtig tartó haszonélvezeti jog
+            Név: Vajda Dezsõ 
+            Cím: 7900 SZIGETVÁR,Juranics utca 13.
+          Utalások: II/13
+   
+ 
+______________________________________________________________________________________________ 
+      09/10   
+          .   erdõ                   3            23.8709               66.84           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     23.8709               66.84          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 218344/655032       
+          Szerz.jogcím: részarány kiadás
+          Név: Bata János 
+          Cím: 7900 SZIGETVÁR, Bika András utca 2
+ 
+          Sorszám: 5      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 6076/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Berkes Istvánné 
+          Cím: 7900 SZIGETVÁR, Bika András utca 21
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 196/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: L.Jakab Istvánné 
+          Cím: 7987 ISTVÁNDI,   
+ 
+          Sorszám: 8      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 784/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Hajdu Józsefné 
+          Cím: 7972 PETTEND, Malom utca 1
+ 
+          Sorszám: 12      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 980/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Németh Lászlóné 
+          Cím: 7975 KÉTÚJFALU, Rákóczi utca 32
+ 
+          Sorszám: 14      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 4606/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Hahn Andrásné 
+          Cím: 7636 PÉCS, Illyés Gyula út 52
+ 
+          Sorszám: 20      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 882/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Tóth József 
+          Cím: 7960 SELLYE, Mátyás király utca 9
+ 
+          Sorszám: 21      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 882/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Bencsik Istvánné 
+          Cím: 7960 SELLYE, Batthyány utca 11.
+ 
+          Sorszám: 23      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 1274/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Vörös Sándor 
+          Cím: 7570 BARCS, Rákóczi utca 29
+ 
+          Sorszám: 27      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 882/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Steinbak Fülöpné 
+          Cím: 7973 TEKLAFALU, Fõ utca 18
+ 
+          Sorszám: 30      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 588/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Svéger Bálintné 
+          Cím: 7759 LÁNYCSÓK, Tomori utca 7
+ 
+          Sorszám: 36      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 1176/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Keilhauer László 
+          Cím: Belgium,  
+ 
+          Sorszám: 37      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 392/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Lempel János 
+          Cím: 7973 TEKLAFALU,   
+ 
+          Sorszám: 38      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 588/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Lempel Jánosné 
+          Cím: 7973 TEKLAFALU,   
+ 
+          Sorszám: 40      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Molnár Gyuláné 
+          Cím: 0 PÉCS, Szõlõhegy  6
+ 
+          Sorszám: 42      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 1862/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Barabás Mária Márta 
+          Cím: MOLVÁNY, Molványhídpuszta 84. 7981
+ 
+          Sorszám: 43      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 1862/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Barabás Ferenc János 
+          Cím: 8991 TESKÁND, Sport utca 12.
+ 
+          Sorszám: 45      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 784/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Sztraka Pál 
+          Cím: 7973 TEKLAFALU,   
+ 
+          Sorszám: 46      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 196/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Sztraka Pálné 
+          Cím: 7973 TEKLAFALU,   
+ 
+          Sorszám: 47      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 882/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Selyem Istvánné 
+          Cím: 7973 TEKLAFALU,   
+ 
+          Sorszám: 48      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 686/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Metz Mihály 
+          Cím: 7925 MAGYARLUKAFA,   
+ 
+          Sorszám: 50      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 490/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Wolf Ádámné 
+          Cím: 7973 TEKLAFALU,   
+ 
+          Sorszám: 53      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 392/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Kiss János 
+          Cím: 7973 VÁRAD,   
+ 
+          Sorszám: 56      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Baris Ferencné 
+          Cím: 7500 NAGYATÁD, Baross Gábor utca 7. 2/7.
+ 
+          Sorszám: 57      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 196/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Sziács Józsefné 
+          Cím: 7977 DRÁVAGÁRDONY,   
+ 
+          Sorszám: 63      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Vukmann Ferencné 
+          Cím: 7981 MOLVÁNY, Fõ utca 31
+ 
+          Sorszám: 64      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 392/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Kiss József 
+          Cím: 7973 VÁRAD, Fõ utca 24
+ 
+          Sorszám: 65      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Gulyás Józsefné 
+          Cím: 7976 ZÁDOR, Hajnal utca 27
+ 
+          Sorszám: 66      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: részarány kiadás
+          Név: Siba Lászlóné 
+          Cím: 6640 CSONGRÁD, Raisio utca 1 2. emelet 4
+ 
+          Sorszám: 67      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: részarány kiadás
+          Név: Radics László 
+          Cím: 5540 SZARVAS, Arany János utca 4
+ 
+          Sorszám: 68      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: részarány kiadás
+          Név: Sewiczki Stefan 
+          Cím: Németország,  
+ 
+          Sorszám: 69      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 490/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Ferkó Sándorné 
+          Cím: 7988 DARÁNY, Árpád utca 4
+ 
+          Sorszám: 72      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Keszthelyi Jenõné 
+          Cím: 8700 MARCALI, Kaposvári utca 146.
+ 
+          Sorszám: 73      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Simon Jenõ 
+          Cím: 8700 MARCALI, Kaposvári utca 63
+ 
+          Sorszám: 83      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 392/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Sersli István 
+          Cím: 7691 VASAS, Bánya telep 32
+ 
+          Sorszám: 85      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 1666/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Janzsó Józsefné 
+          Cím: 7900 SZIGETVÁR, Görösgali utca 55.
+ 
+          Sorszám: 87      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: részarány kiadás
+          Név: Gyõrfi Csaba 
+          Cím: 7026 MADOCSA, Kender utca 8
+ 
+          Sorszám: 88      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: részarány kiadás
+          Név: Gyõrfi Sándor 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 97
+ 
+          Sorszám: 89      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: részarány kiadás
+          Név: Fazekas Ferencné 
+          Cím: 7900 SZIGETVÁR, Turbéki utca 3
+ 
+          Sorszám: 93      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 2744/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Barkaszi Gyuláné 
+          Cím: 3384 KISKÖRE, Új élet utca 1/a
+ 
+          Sorszám: 94      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 1666/655032         
+          Szerz.jogcím: részarány kiadás
+          Név: Kovács István 
+          Cím: 7900 SZIGETVÁR, Vár utca 3
+ 
+          Sorszám: 98      Bejegyzõ hat.szám: 32069/1999.03.03
+          Tul.hányad: 392/655032          
+          Szerz.jogcím: részarány kiadás
+          Név: Hirth Istvánné 
+          Cím: 4823 NAGYDOBSZA, Fõ utca 102
+ 
+          Sorszám: 103      Bejegyzõ hat.szám: 36335/1997.08.29
+          Tul.hányad: 490/655032          
+          Szerz.jogcím: öröklés
+          Név: Passa Ferencné 
+          Cím: 7570 BARCS, Semmelweis utca 2/a
+ 
+          Sorszám: 104      Bejegyzõ hat.szám: 32474/1999.03.22
+          Tul.hányad: 3920/655032         
+          Szerz.jogcím: ajándékozás
+          Név: Bogdán Györgyné 
+          Cím: 7954 KISASSZONYFA, Petõfi utca 89
+ 
+          Sorszám: 108      Bejegyzõ hat.szám: 32741/2000.05.03
+          Tul.hányad: 490/655032          
+          Szerz.jogcím: öröklés
+          Név: Mikulás Józsefné 
+          Cím: 7975 KÉTÚJFALU, Petõfi Sándor utca 64
+ 
+          Sorszám: 109      Bejegyzõ hat.szám: 38983/2000.12.14
+          Tul.hányad: 4900/655032         
+          Szerz.jogcím: öröklés
+          Név: Benkõ Jánosné 
+          Cím: 7972 PETTEND, Kossuth utca 12
+ 
+          Sorszám: 111      Bejegyzõ hat.szám: 30430/2003 2001.01.16
+          Tul.hányad: 8134/655032         
+          Szerz.jogcím: öröklés
+          Név: Berkes Istvánné 
+          Cím: 7900 SZIGETVÁR, Bika András utca 21
+ 
+          Sorszám: 114      Bejegyzõ hat.szám: 37626/1997.10.15
+          Tul.hányad: 7546/655032         
+          Szerz.jogcím: ajándékozás
+          Név: Vajda Dezsõ Gyula 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 1/D.
+ 
+          Sorszám: 117      Bejegyzõ hat.szám: 30692/2003.01.23
+          Tul.hányad: 3626/655032         
+          Szerz.jogcím: öröklési szerzõdés
+          Név: Berkes Istvánné 
+          Cím: 7900 SZIGETVÁR, Bika András utca 21
+ 
+          Sorszám: 121      Bejegyzõ hat.szám: 30301/2004.01.13
+          Tul.hányad: 392/655032          
+          Szerz.jogcím: adásvétel
+          Név: Benkõ Jánosné 
+          Cím: 7972 PETTEND, Kossuth utca 12
+ 
+          Sorszám: 122      Bejegyzõ hat.szám: 32467/2004.04.08
+          Tul.hányad: 196/655032          
+          Szerz.jogcím: öröklés
+          Név: Bicsár László 
+          Cím: 7973 VÁRAD, Fõ utca 20
+ 
+          Sorszám: 123      Bejegyzõ hat.szám: 32467/2004.04.08
+          Tul.hányad: 196/655032          
+          Szerz.jogcím: öröklés
+          Név: Bicsár Attila 
+          Cím: 7922 BASAL, Zrínyi utca 42.
+ 
+          Sorszám: 129      Bejegyzõ hat.szám: 35232/2004.08.06
+          Tul.hányad: 1274/655032         
+          Szerz.jogcím: öröklés
+          Név: Vörös Sándor 
+          Cím: 7570 BARCS, Rákóczi utca 29
+ 
+          Sorszám: 130      Bejegyzõ hat.szám: 38067/2004.11.15
+          Tul.hányad: 294/655032          
+          Szerz.jogcím: öröklés
+          Név: Nagy Ferenc 
+          Cím: 7634 PÉCS, - - Zsebe-kúti dûlõ 16.
+ 
+          Sorszám: 131      Bejegyzõ hat.szám: 33836/2005.04.28
+          Tul.hányad: 833/655032          
+          Szerz.jogcím: öröklés
+          Név: Somorjai Kornélia 
+          Cím: 7985 NAGYDOBSZA, Hunyadi utca 31.
+ 
+          Sorszám: 132      Bejegyzõ hat.szám: 33836/2005.04.28
+          Tul.hányad: 833/655032          
+          Szerz.jogcím: öröklés
+          Név: Kovács Bernadett 
+          Cím: 7900 SZIGETVÁR, Ország út 11.
+ 
+          Sorszám: 133      Bejegyzõ hat.szám: 36501/2005.07.15
+          Tul.hányad: 196/655032          
+          Szerz.jogcím: öröklés
+          Név: Schneider Gábor Lászlóné 
+          Cím: 7621 PÉCS, Tímár utca 6.
+ 
+          Sorszám: 135      Bejegyzõ hat.szám: 31220/2008.02.13
+          Tul.hányad: 109172/655032       
+          Szerz.jogcím: öröklés és ajándékozás
+          Név: Benkõ János Zoltán 
+          Cím: 7972 PETTEND, Kossuth Lajos utca 12.
+ 
+          Sorszám: 136      Bejegyzõ hat.szám: 31220/2008.02.13
+          Tul.hányad: 109172/655032       
+          Szerz.jogcím: öröklés és ajándékozás
+          Név: Benkõ Tihamér 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 63
+ 
+          Sorszám: 137      Bejegyzõ hat.szám: 37085/2008.07.30
+          Tul.hányad: 1176/655032         
+          Szerz.jogcím: adásvétel
+          Név: Bata János 
+          Cím: 7900 SZIGETVÁR, Bika András utca 2
+ 
+          Sorszám: 138      Bejegyzõ hat.szám: 38419/2008.09.25
+          Tul.hányad: 4900/655032         
+          Szerz.jogcím: adásvétel
+          Név: Horváth Lajos 
+          Cím: 7981 MOLVÁNY, Fõ utca 40
+ 
+          Sorszám: 139      Bejegyzõ hat.szám: 38810/2008.10.10
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: öröklés
+            ajándékozás
+          Név: Bátorfalvi Zoltánné 
+          Cím: 7975 KÉTÚJFALU, Rákóczi utca 45/4.
+ 
+          Sorszám: 140      Bejegyzõ hat.szám: 34262/2009.07.06
+          Tul.hányad: 19600/655032        
+          Szerz.jogcím: öröklés
+          Név: Magda Sándor 
+          Cím: 7900 SZIGETVÁR, Munkás utca 9
+ 
+          Sorszám: 144      Bejegyzõ hat.szám: 30484/2010.02.03
+          Tul.hányad: 2695/655032         
+          Szerz.jogcím: öröklés
+          Név: Csankóné Petõ Éva 
+          Cím: 7632 PÉCS, Németh László utca 24.
+ 
+          Sorszám: 145      Bejegyzõ hat.szám: 30484/2010.02.03
+          Tul.hányad: 2695/655032         
+          Szerz.jogcím: öröklés
+          Név: Petõ Gyula Gábor 
+          Cím: 7634 PÉCS, Gém utca 11.
+ 
+          Sorszám: 150      Bejegyzõ hat.szám: 36395/2/2012.06.26
+          Tul.hányad: 28714/655032        
+          Szerz.jogcím: adásvétel
+          Név: Bata János 
+          Cím: 7900 SZIGETVÁR, Bika András utca 2
+ 
+          Sorszám: 151      Bejegyzõ hat.szám: 36889/2/2012.07.26
+          Tul.hányad: 15092/655032        
+          Szerz.jogcím: adásvétel
+          Név: Bata János 
+          Cím: 7900 SZIGETVÁR, Bika András utca 2
+ 
+          Sorszám: 152      Bejegyzõ hat.szám: 38203/2012.11.05
+          Tul.hányad: 19796/655032        
+          Szerz.jogcím: adásvétel
+          Név: Bata János 
+          Cím: 7900 SZIGETVÁR, Bika András utca 2
+ 
+          Sorszám: 153      Bejegyzõ hat.szám: 31100/2013.03.01
+          Tul.hányad: 1862/655032         
+          Szerz.jogcím: öröklés
+          Név: Barabás Mária Márta 
+          Cím: MOLVÁNY, Molványhídpuszta 84. 7981
+ 
+          Sorszám: 154      Bejegyzõ hat.szám: 31100/2013.03.01
+          Tul.hányad: 1862/655032         
+          Szerz.jogcím: öröklés
+          Név: Barabás Ferenc János 
+          Cím: 8991 TESKÁND, Sport utca 12.
+ 
+          Sorszám: 155      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 84/655032           
+          Szerz.jogcím: öröklés
+          Név: Vass István 
+          Cím: 7973 TEKLAFALU, Fõ utca 80
+ 
+          Sorszám: 156      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 84/655032           
+          Szerz.jogcím: öröklés
+          Név: Vass Zoltán 
+          Cím: 7985 NAGYDOBSZA, Hunyadi János utca 71.
+ 
+          Sorszám: 157      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 168/655032          
+          Szerz.jogcím: öröklés
+            ajándékozás
+          Név: Vass László 
+          Cím: 7973 TEKLAFALU, Fõ utca 121
+           84/655032 részben Széll Károlyné Vass Éva (1958.an.: Fodor Margit) 7900. 
+          Szigetvár, Szent I.ltp.18.II/16. szám alatti lakos be nem jegyzett tulajdonjogának 
+          feltüntetésével.
+ 
+          Sorszám: 158      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 84/655032           
+          Szerz.jogcím: öröklés
+          Név: Berta Csaba 
+          Cím: 7973 TEKLAFALU, Fõ utca 36
+ 
+          Sorszám: 159      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 84/655032           
+          Szerz.jogcím: öröklés
+          Név: Szabóné Berta Zsuzsanna 
+          Cím: 7988 DARÁNY, Rákóczi utca 45
+ 
+          Sorszám: 160      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 28/655032           
+          Szerz.jogcím: öröklés
+          Név: Vass Beáta 
+          Cím: 7973 VÁRAD, Fõ utca 18.
+ 
+          Sorszám: 161      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 28/655032           
+          Szerz.jogcím: öröklés
+          Név: Vass Renáta 
+          Cím: VÁRAD, Újpuszta 6. 7973
+ 
+          Sorszám: 162      Bejegyzõ hat.szám: 36430/2014.12.01
+          Tul.hányad: 28/655032           
+          Szerz.jogcím: öröklés
+          Név: Vass János 
+          Cím: 7973 VÁRAD, Újpuszta - 6.
+ 
+          Sorszám: 163      Bejegyzõ hat.szám: 30629/2015.02.11
+          Tul.hányad: 1813/655032         
+          Szerz.jogcím: öröklés
+          Név: Lipicsné Benked Ilona Jolán 
+          Cím: 7570 BARCS, Barátság utca 8
+           1/2 részben Kovács Ferencné Benked Gizella (1940.an.: Pálfi Mária) volt 
+          7900.Szigetvár, Szent I.ltp.21. szám alatti lakos be nem jegyzett tulajdonjogának 
+          feltüntetésével.
+ 
+          Sorszám: 164      Bejegyzõ hat.szám: 30629/2015.02.11
+          Tul.hányad: 1813/655032         
+          Szerz.jogcím: öröklés
+          Név: Benked Tibor 
+          Cím: 7570 BARCS, Szép kilátás utca 10
+           1/2 részben Kovács Ferencné Benked Gizella (1940.an.: Pálfi Mária) volt 7900. 
+          Szigetvár, Szent I.ltp.21. szám alatti lakos be nem jegyzett tulajdonjogának 
+          feltüntetésével.
+ 
+          Sorszám: 165      Bejegyzõ hat.szám: 30845/2015.03.03
+          Tul.hányad: 5292/655032         
+          Szerz.jogcím: ajándékozás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           1/3 részben Nagy Dezsõ (1933.an.: Tóth Erzsébet)7911. Botykapeterd, Zrínyi u.14., 
+          1/3 részben Nagy Erzsébet Csilla (1966.an.: Kis Bagoly Erzsébet) 7900. Szigetvár, 
+          Széchenyi u. 4., 1/3 részben Golobné Nagy Ildikó (1961.an.: Kis Bagoly Erzsébet) 
+          7936. Szentlászló, Rákóczi u.77.szám alatti lakosok be nem jegyzett tulajdonjogának 
+          feltüntetésével. A tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért 
+          felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja
+ 
+          Sorszám: 166      Bejegyzõ hat.szám: 31006/2016.02.24
+          Tul.hányad: 7105/655032         
+          Szerz.jogcím: öröklés
+          Név: Németh József 
+          Cím: 7900 SZIGETVÁR, Damjanich utca 27
+ 
+          Sorszám: 167      Bejegyzõ hat.szám: 31006/2016.02.24
+          Tul.hányad: 7105/655032         
+          Szerz.jogcím: öröklés
+          Név: Boldizsár Zsuzsanna 
+          Cím: 7900 SZIGETVÁR, Munkás utca 31
+ 
+          Sorszám: 168      Bejegyzõ hat.szám: 34483/2/2017.07.25
+          Tul.hányad: 588/655032          
+          Szerz.jogcím: öröklés
+          Név: Janzsó József 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 70.
+ 
+          Sorszám: 169      Bejegyzõ hat.szám: 34483/2/2017.07.25
+          Tul.hányad: 588/655032          
+          Szerz.jogcím: öröklés
+          Név: Janzsó Katalin 
+          Cím: 7900 SZIGETVÁR, Zárda utca 14.
+ 
+          Sorszám: 170      Bejegyzõ hat.szám: 34483/2/2017.07.25
+          Tul.hányad: 588/655032          
+          Szerz.jogcím: öröklés
+          Név: Janzsó Józsefné 
+          Cím: 7900 SZIGETVÁR, Görösgali utca 55.
+ 
+          Sorszám: 171      Bejegyzõ hat.szám: 34578/4/2017.07.31
+          Tul.hányad: 24206/655032        
+          Szerz.jogcím: adásvétel
+          Név: Dr. Bata Balázs 
+          Cím: 7900 SZIGETVÁR, Bika András utca 2
+ 
+          Sorszám: 172      Bejegyzõ hat.szám: 33910/2/2018.06.29
+          Tul.hányad: 98/655032           
+          Szerz.jogcím: ajándékozás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+          A 2010. évi LXXXVII. törvény 1. §. (1) bek. a)-c) pontja alapján a tulajdonosi 
+          jogokat és a kötelezettségeket az agrárpolitikáért felelelõs miniszter a Nemzeti 
+          Földalapkezelõ Szervezet útján gyakorolja. 
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 30082/1999.01.05
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 09/4 hrsz-bõl. 
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 32069/1999.03.03
+          Jog-tény neve: Özvegyi jog
+            Név: Tóth Istvánné 
+            Cím: 7960 SELLYE,Mátyás király utca 9.
+          Utalások: II/20-21
+   
+          Sorszám: 5      Bejegyzõ hat.szám: 32069/1999.03.03
+          Jog-tény neve: Özvegyi jog
+            Név: Sztraka Imréné 
+            Cím: 7973 TEKLAFALU,Fõ utca 13
+          Utalások: II/45
+   
+          Sorszám: 8      Bejegyzõ hat.szám: 32069/1999.03.03
+          Jog-tény neve: Özvegyi jog
+            Név: Sersli István 
+            Cím: 7691 VASAS,Bánya telep 32
+          Utalások: II/83
+   
+          Sorszám: 10      Bejegyzõ hat.szám: 32069/1999.03.03
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-98       sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 15      Bejegyzõ hat.szám: 36335/1997.08.29
+          Jog-tény neve: Özvegyi jog
+            Név: Radics Sándorné 
+            Cím: 7570 BARCS,Semmelweis utca 2/a
+          Utalások: II/103
+   
+          Sorszám: 18      Bejegyzõ hat.szám: 32467/2004.04.08
+          Jog-tény neve: Özvegyi jog
+            Név: Bicsár Mihályné 
+            Cím: 7973 VÁRAD,Fõ utca 20
+          Utalások: II/122-123
+   
+          Sorszám: 20      Bejegyzõ hat.szám: 33836/2005.04.28
+          Jog-tény neve: Özvegyi jog
+            Név: Kovács Lászlóné 
+            Cím: 7985 NAGYDOBSZA,Hunyadi János utca 31
+          Utalások: II/131-132
+   
+          Sorszám: 21      Bejegyzõ hat.szám: 36501/2005.07.15
+          Jog-tény neve: Özvegyi jog
+            Név: Kiss Imre 
+            Cím: 7621 PÉCS,Tímár utca 6. 1. em. 5.
+          Utalások: II/133
+   
+ 
+______________________________________________________________________________________________ 
+     012/1    
+          .   erdõ                                14.2639               50.40          
+                            ------------------------------------------------------------------
+                                     2            12.2639               46.60        
+                                     4             2.0000                3.80        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     14.2639               50.40          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32542/2012.04.17
+          Jog-tény neve: Földminõsítési mintatér elhelyezését biztosító használati jog
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi tér 9.
+           erdõ mûvelési ág  2. miõségi osztályára
+   
+ 
+______________________________________________________________________________________________ 
+     012/2    
+          .   erdõ                   4            10.2685               19.51           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.2685               19.51          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+ 
+______________________________________________________________________________________________ 
+     013/     
+          .   kivett                               0.1173                0.00           
+                 közút 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.1173                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 32997/1995.07.04
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás 1990.LXV.tv.107.§.(2)
+          Név: PETTEND KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7972 PETTEND, Kossuth Lajos utca 11
+ 
+______________________________________________________________________________________________ 
+     015/     
+          .   kivett                               1.2596                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.2596                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 32223/3/1987.06.09
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: eredeti felvétel
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+ 
+********************************************************************************************** 
+1294 PETTEND KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             6   
+TERÜLET  ÖSSZESEN (ha.m2) :       59.6614   
+KTJ. ÖSSZESEN (K.f./fill.):        225.68 
+********************************************************************************************** 
+1294 PETTEND FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             6   
+TERÜLET  ÖSSZESEN (ha.m2) :       59.6614   
+KTJ. ÖSSZESEN (K.f./fill.):        225.68 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.18 10:11:38

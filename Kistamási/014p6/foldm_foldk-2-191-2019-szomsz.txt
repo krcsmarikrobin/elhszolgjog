@@ -1,0 +1,202 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/191/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.03.14 01:49:03 
+**********************************************************************************************
+ 1282 KISTAMÁSI   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     014/1    
+          .   kivett                               0.4591                0.00           
+                 közút 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.4591                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 30447/2000.01.31
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7981 KISTAMÁSI, Fõ utca 11.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35737/1995.11.30
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 014 hrsz-bõl  
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 30162/2003.01.07
+          Jog-tény neve: Vízvezetési szolgalmi jog
+            Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+            Cím: 7981 KISTAMÁSI Fõ utca 11.
+           32079/1991.05.20
+   
+          Sorszám: 4      Bejegyzõ hat.szám: 31143/2010.03.10
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Felmérési, térképezési és területszámítási hiba kijavítása.
+   
+          Sorszám: 5      Bejegyzõ hat.szám: 37725/2/2012.09.21
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+ 
+______________________________________________________________________________________________ 
+     014/3    
+          .   szántó                 2             4.0606              112.88           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      4.0606              112.88          
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 31342/1999.01.29  
+          Minõségi osztály változás
+ 
+   Tulajdonosi adatok
+          Sorszám: 8      Bejegyzõ hat.szám: 33660/2016.07.06
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: ajándékozás
+          Név: Vajda Gergõ Attila 
+          Cím: 7900 SZIGETVÁR, Millennium utca 7.
+ 
+          Sorszám: 9      Bejegyzõ hat.szám: 33660/2016.07.06
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: ajándékozás
+          Név: Vajda Laura Panna 
+          Cím: 7900 SZIGETVÁR, Millennium utca 7.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 6      Bejegyzõ hat.szám: 33660/2016.07.06
+          Jog-tény neve: Haszonélvezeti jog
+            Név: Vajda Attila Dezsõ 
+            Cím: 7900 SZIGETVÁR,Millennium utca 7.
+           20 év idõtartamra
+   
+ 
+______________________________________________________________________________________________ 
+     014/4    
+          .   kivett                               0.5011                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.5011                0.00          
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 35884/2/2017.09.22  
+          Natura 2000 terület
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31993/2000.04.04
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7981 KISTAMÁSI, Fõ utca 11.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35737/1995.11.30
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 014 hrsz-bõl  
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 30162/2003.01.07
+          Jog-tény neve: Vízvezetési szolgalmi jog
+            Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+            Cím: 7981 KISTAMÁSI Fõ utca 11.
+           32079/1991.05.20
+   
+          Sorszám: 4      Bejegyzõ hat.szám: 37725/2/2012.09.21
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+ 
+______________________________________________________________________________________________ 
+     014/6    
+          .   szántó                              10.3196              279.03          
+                            ------------------------------------------------------------------
+                                     2             9.6245              267.56        
+                                     4             0.6951               11.47        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.3196              279.03          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 37202/2009.11.27
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: adásvétel
+          Név: Galbáts András Ferenc 
+          Cím: 7622 PÉCS, Vargha Damján utca 4. 2/6.
+ 
+          Sorszám: 4      Bejegyzõ hat.szám: 37202/2009.11.27
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: adásvétel
+          Név: Kész Mária Magdolna 
+          Cím: 7622 PÉCS, Vargha Damján utca 4
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35661/2009.09.11
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakítva a kistamási 014/5 hrsz-bõl.
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 35661/2009.09.11
+          Jog-tény neve: Vízvezetési szolgalmi jog
+            Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+            Cím: 7981 KISTAMÁSI Fõ utca 11.
+           32079/1991.05.20
+   
+ 
+______________________________________________________________________________________________ 
+     014/8    
+          .   szántó                               8.3626              192.69          
+                            ------------------------------------------------------------------
+                                     2             4.8413              134.59        
+                                     4             3.5213               58.10        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      8.3626              192.69          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 31042/2014.02.24
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: birtokösszevonási célú önkéntes földcsere
+            adásvétel
+            osztatlan közös tulajdon megszüntetése
+          Név: Vajda Attila Dezsõ 
+          Cím: 7900 SZIGETVÁR, Millennium utca 7.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 31042/2014.02.24
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakítva a 014/7 helyrajzi számú földrészletbõl.
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 34627/3/2017.08.02
+          Jog-tény neve: Jelzálogjog
+          erejéig  
+            Név: Vajda Dezsõ Gyuláné 
+            Cím: 7900 SZIGETVÁR,Juranics utca 13
+           Terheli még a Merenye 013/4., 0153/1., Nagydobsza 05/8., 025/46., 058/15., 075/5., 
+          099/12., 099/34., 099/45., 0103/11., 0103/18., 0103/34., 0103/36., 0103/37. és a 
+          Nemeske 05/3. hrsz-ú ingatlanokat is.
+   
+ 
+********************************************************************************************** 
+1282 KISTAMÁSI KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       23.7030   
+KTJ. ÖSSZESEN (K.f./fill.):        584.60 
+********************************************************************************************** 
+1282 KISTAMÁSI FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       23.7030   
+KTJ. ÖSSZESEN (K.f./fill.):        584.60 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.14 01:49:10

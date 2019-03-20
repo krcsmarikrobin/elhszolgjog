@@ -1,0 +1,107 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/196/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.03.18 09:47:25 
+**********************************************************************************************
+ 1294 PETTEND   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     015/     
+          .   kivett                               1.2596                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.2596                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 32223/3/1987.06.09
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: eredeti felvétel
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+ 
+______________________________________________________________________________________________ 
+     018/1    
+          a   erdõ                   3             5.0941               14.26           
+          b   kivett                               0.1681                0.00           
+                 árok 
+          c   erdõ                   3             5.0519               14.15           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.3141               28.41          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32542/2012.04.17
+          Jog-tény neve: Földminõsítési mintatér elhelyezését biztosító használati jog
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi tér 9.
+           a) alrészletének erdõ mûvelési ágú, 3. minõségi osztályára
+   
+ 
+______________________________________________________________________________________________ 
+     018/2    
+          .   erdõ                                 9.0799               26.42          
+                            ------------------------------------------------------------------
+                                     2             1.0000                3.80        
+                                     3             8.0799               22.62        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      9.0799               26.42          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+ 
+______________________________________________________________________________________________ 
+     018/3    
+          .   erdõ                                 7.4063               19.77          
+                            ------------------------------------------------------------------
+                                     2             3.0000               11.40        
+                                     4             4.4063                8.37        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      7.4063               19.77          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+ 
+********************************************************************************************** 
+1294 PETTEND KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             4   
+TERÜLET  ÖSSZESEN (ha.m2) :       28.0599   
+KTJ. ÖSSZESEN (K.f./fill.):         74.60 
+********************************************************************************************** 
+1294 PETTEND FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             4   
+TERÜLET  ÖSSZESEN (ha.m2) :       28.0599   
+KTJ. ÖSSZESEN (K.f./fill.):         74.60 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.18 09:47:28

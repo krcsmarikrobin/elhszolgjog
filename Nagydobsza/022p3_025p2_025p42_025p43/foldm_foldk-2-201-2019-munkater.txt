@@ -1,0 +1,207 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/201/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.03.18 02:19:42 
+**********************************************************************************************
+ 1288 NAGYDOBSZA   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     022/3    
+          .   erdõ                   3             7.3305               27.86           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      7.3305               27.86          
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 30128/30/1994.01.19  
+          Kárpótlás
+ 
+          3.Bejegyzõ határozat: 35157/2008.05.29  
+          Natura 2000 terület  (különleges természetmegõrzési terület)
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 30128/30/1994.01.19
+          Tul.hányad: 380/2786            
+          Szerz.jogcím: kárpótlási árverés
+          Név: Hornung Gyuláné 
+          Cím: 7900 SZIGETVÁR, Basa utca 18.
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 30128/30/1994.01.19
+          Tul.hányad: 380/2786            
+          Szerz.jogcím: kárpótlási árverés
+          Név: Lukács Gyöngyi 
+          Cím: 7923 PÉCS, Kolozsvár utca 9.
+ 
+          Sorszám: 7      Bejegyzõ hat.szám: 31880/1996/1993.12.30
+          Tul.hányad: 114/2786            
+          Szerz.jogcím: ajándékozás
+          Név: Lukács Gyöngyi 
+          Cím: 7923 PÉCS, Kolozsvár utca 9.
+ 
+          Sorszám: 8      Bejegyzõ hat.szám: 31880/1996/1993.12.30
+          Tul.hányad: 57/2786             
+          Szerz.jogcím: ajándékozás
+          Név: Hornung Péter 
+          Cím: 7911 BOTYKAPETERD, Kossuth utca 19.
+ 
+          Sorszám: 10      Bejegyzõ hat.szám: 32421/2005.02.24
+          Tul.hányad: 57/2786             
+          Szerz.jogcím: öröklés
+          Név: Hornung Gyula 
+          Cím: 7900 SZIGETVÁR, Zárda utca 5. 1/6.
+ 
+          Sorszám: 11      Bejegyzõ hat.szám: 33155/2011.06.15
+          Tul.hányad: 519/2786            
+          Szerz.jogcím: öröklés
+          Név: Gyõr Zoltán 
+          Cím: 7985 NAGYDOBSZA, Petõfi utca 5/1.
+ 
+          Sorszám: 12      Bejegyzõ hat.szám: 34423/2011.09.02
+          Tul.hányad: 760/2786            
+          Szerz.jogcím: öröklés
+          Név: Benked László Attila 
+          Cím: 7621 PÉCS, Harangvirág utca 5.
+ 
+          Sorszám: 13      Bejegyzõ hat.szám: 33229/2012.05.10
+          Tul.hányad: 519/2786            
+          Szerz.jogcím: öröklés
+          Név: Gyõr Zoltán 
+          Cím: 7985 NAGYDOBSZA, Petõfi utca 5/1.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 30128/30/1994.01.19
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.kialakitva a 022/1 hrsz- bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 32798/2010.06.30
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 34423/2011.09.02
+          Jog-tény neve: Özvegyi jog
+            Név: Benked Lászlóné 
+            Cím: 7693 PÉCS,Harangvirág utca 5
+          Utalások: II/12
+   
+ 
+______________________________________________________________________________________________ 
+     025/2    
+          .   kivett                               0.7941                0.00           
+                 közút 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.7941                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 36825/1999.09.13
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: átadás 1992. évi L. tv.
+          Név: NAGYDOBSZA KÖZSÉGI ÖNKORMÁNYZATA
+          Cím: 7985 NAGYDOBSZA, Fõ utca 85
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35766/1995.11.30
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 025 hrsz-bõl  
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 32798/2010.06.30
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+ 
+______________________________________________________________________________________________ 
+     025/42   
+          .   szántó                 1            14.1754              517.40           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     14.1754              517.40          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 34589/2006.05.30
+          Tul.hányad: 2519/12023          
+          Szerz.jogcím: részarány kiadás
+          Név: Hegedûs Sándor 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 38.
+ 
+          Sorszám: 4      Bejegyzõ hat.szám: 34589/2006.05.30
+          Tul.hányad: 1075/12023          
+          Szerz.jogcím: részarány kiadás
+          Név: Lõrincz Istvánné 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 36
+ 
+          Sorszám: 5      Bejegyzõ hat.szám: 34589/2006.05.30
+          Tul.hányad: 1325/12023          
+          Szerz.jogcím: részarány kiadás
+          Név: Lõrincz István 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 36
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 34589/2006.05.30
+          Tul.hányad: 7104/12023          
+          Szerz.jogcím: ajándékozás
+            ajándékozás
+            adásvétel
+            adásvétel
+            adásvétel
+            ajándékozás
+          Név: Vajda Dezsõ Gyula 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 1/D.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34589/2006.05.30
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.-ben kialakítva a 025/1 hrsz.-ú földrészletbõl.
+   
+ 
+______________________________________________________________________________________________ 
+     025/43   
+          .   szántó                              13.0181              431.99          
+                            ------------------------------------------------------------------
+                                     1             9.6970              353.94        
+                                     3             3.3211               78.05        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     13.0181              431.99          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 34392/2006.05.24
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Vajda Dezsõ Gyula 
+          Cím: 7985 NAGYDOBSZA, Fõ utca 1/D.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34589/2006.05.30
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.-ben kialakítva a 025/1 hrsz.-ú földrészletbõl.
+   
+          Sorszám: 4      Bejegyzõ hat.szám: 32798/2010.06.30
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+ 
+********************************************************************************************** 
+1288 NAGYDOBSZA KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             4   
+TERÜLET  ÖSSZESEN (ha.m2) :       35.3181   
+KTJ. ÖSSZESEN (K.f./fill.):        977.25 
+********************************************************************************************** 
+1288 NAGYDOBSZA FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             4   
+TERÜLET  ÖSSZESEN (ha.m2) :       35.3181   
+KTJ. ÖSSZESEN (K.f./fill.):        977.25 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.18 02:19:48

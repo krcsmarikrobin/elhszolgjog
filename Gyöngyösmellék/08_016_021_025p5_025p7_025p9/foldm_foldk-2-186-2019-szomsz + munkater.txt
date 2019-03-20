@@ -1,0 +1,607 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/186/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Mohácsi Zoltán
+    DATUM: 2019.03.13 09:40:16 
+**********************************************************************************************
+ 1276 GYÖNGYÖSMELLÉK   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+      07/1    
+          .   kivett                               3.8703                0.00           
+                 Gyöngyös-patak 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      3.8703                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+ 
+______________________________________________________________________________________________ 
+      08/     
+          a   szántó                 6             2.7857               23.12           
+          b   rét                    5             3.3334               72.33           
+          c   fásított terület       4             3.7921                7.20           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      9.9112              102.65          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+          Sorszám: 5      Bejegyzõ hat.szám: 36544/2/2018.11.22
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+      09/     
+          .   kivett                               0.1824                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.1824                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+ 
+______________________________________________________________________________________________ 
+     010/     
+          .   erdõ                   1             1.0439                6.89           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.0439                6.89          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 31240/2012.02.15
+          Jog-tény neve: Földminõsítési mintatér elhelyezését biztosító használati jog
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi tér 9.
+   
+ 
+______________________________________________________________________________________________ 
+     011/     
+          .   erdõ                   4             7.3554               13.98           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      7.3554               13.98          
+ 
+   Tulajdonosi adatok
+          Sorszám: 8      Bejegyzõ hat.szám: 30314/4/2018.01.09
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+ 
+______________________________________________________________________________________________ 
+     012/     
+          .   kivett                               0.1548                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.1548                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+ 
+______________________________________________________________________________________________ 
+     013/     
+          a   erdõ                   4             5.4516               10.36           
+          b   kivett                               0.2100                0.00           
+                 saját használatú út 
+          c   erdõ                   4             5.2040                9.89           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.8656               20.25          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           
+ 
+______________________________________________________________________________________________ 
+     016/     
+          .   kivett                               1.5075                0.00           
+                 saját használatú út 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.5075                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+ 
+______________________________________________________________________________________________ 
+     017/1    
+          .   szántó                 6             1.7264               14.33           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.7264               14.33          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 30581/6/2018.01.19
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Tabak Tilla 
+          Cím: 7971 HOBOL, Mátyás Király utca 25.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34164/2010.09.30
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+           Területébõl 1275 m2-re.
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+     017/2    
+          .   szántó                 6             6.9447               57.64           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      6.9447               57.64          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34164/2010.09.30
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+           Területébõl 2713 m2-re.
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+     018/     
+          .   kivett                               0.2202                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2202                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+ 
+______________________________________________________________________________________________ 
+     019/     
+          .   szántó                 6            10.9351               90.76           
+          és árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.9351               90.76          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+     020/     
+          .   kivett                               0.2904                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2904                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+ 
+______________________________________________________________________________________________ 
+     021/     
+          a   szántó                 6             6.2073               51.52           
+          b   kivett                               0.2184                0.00           
+                 árok 
+          c   szántó                 6             6.8853               57.15           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     13.3110              108.67          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+     022/     
+          .   kivett                               0.1008                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.1008                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+ 
+______________________________________________________________________________________________ 
+     023/     
+          a   legelõ                 5             0.6852                2.40           
+          b   szántó                 6             3.4265               28.44           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      4.1117               30.84          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+     024/     
+          .   kivett                               0.2680                0.00           
+                 saját használatú út 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2680                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31798/2001.03.12
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: GYÖNGYÖSMELLÉK KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7972 GYÖNGYÖSMELLÉK, Szabadság tér 3
+ 
+______________________________________________________________________________________________ 
+     025/1    
+          .   szántó                 6             0.5557                4.61           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.5557                4.61          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 1/100               
+          Szerz.jogcím: csere
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 35456/2/2013.11.21
+          Tul.hányad: 99/100              
+          Szerz.jogcím: adásvétel
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32595/1999.03.26
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+     025/2    
+          .   szántó                 6             0.2809                2.33           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2809                2.33          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 1/100               
+          Szerz.jogcím: csere
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 35456/2/2013.11.21
+          Tul.hányad: 99/100              
+          Szerz.jogcím: adásvétel
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32595/1999.03.26
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+     025/3    
+          .   szántó                 6             0.1705                1.42           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.1705                1.42          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 1/100               
+          Szerz.jogcím: csere
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 35456/2/2013.11.21
+          Tul.hányad: 99/100              
+          Szerz.jogcím: adásvétel
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32595/1999.03.26
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+     025/4    
+          .   szántó                 6             1.0387                8.62           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.0387                8.62          
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 1/100               
+          Szerz.jogcím: csere
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 35456/2/2013.11.21
+          Tul.hányad: 99/100              
+          Szerz.jogcím: adásvétel
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32595/1999.03.26
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+     025/5    
+          .   szántó                 6             1.1635                9.66           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.1635                9.66          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 15/1964.01.06
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: földrendezés
+          Név: Lempel István 
+          Cím: 7975 KÉTÚJFALU,   
+ 
+          Sorszám: 2      Bejegyzõ hat.szám: 15/1964.01.06
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: földrendezés
+          Név: Lempel Istvánné 
+          Cím: 7975 KÉTÚJFALU,   
+ 
+______________________________________________________________________________________________ 
+     025/6    
+          .   szántó                 6             0.2057                1.71           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2057                1.71          
+ 
+   Tulajdonosi adatok
+          Sorszám: 4      Bejegyzõ hat.szám: 34359/2/2013.09.11
+          Tul.hányad: 1/100               
+          Szerz.jogcím: csere
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+          Sorszám: 5      Bejegyzõ hat.szám: 35456/2/2013.11.21
+          Tul.hányad: 99/100              
+          Szerz.jogcím: adásvétel
+          Név: Jakab Szilárd 
+          Cím: 7831 PELLÉRD, Dózsa György utca 28.
+ 
+______________________________________________________________________________________________ 
+     025/7    
+          .   szántó                 6             0.6236                5.18           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.6236                5.18          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 15/1964.01.06
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: Kovács Lajos 
+          Cím: 2646 PÉCS,   
+ 
+______________________________________________________________________________________________ 
+     025/8    
+          .   szántó                 6             0.2367                1.96           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2367                1.96          
+ 
+   Tulajdonosi adatok
+          Sorszám: 4      Bejegyzõ hat.szám: 35850/2013.12.11
+          Tul.hányad: 2235/2367           
+          Szerz.jogcím: adásvétel
+          Név: Horváth Ferenc 
+          Cím: 7677 HOBOL, Asztalos János utca 39
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 31256/2014.03.05
+          Tul.hányad: 132/2367            
+          Szerz.jogcím: adásvétel
+          Név: Horváth Ferenc 
+          Cím: 7677 HOBOL, Asztalos János utca 39
+ 
+______________________________________________________________________________________________ 
+     025/9    
+          a   szántó                 6             6.4272               53.35           
+          b   legelõ                 5             0.3606                1.26           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      6.7878               54.61          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 37126/2012/2010.12.07
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Mûvelési ág változás
+   
+ 
+______________________________________________________________________________________________ 
+     026/     
+          .   erdõ                   4            10.3484               19.66           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.3484               19.66          
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 30206/14/1994.05.16  
+          Kárpótlás
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 30206/14/1994.05.16
+          Tul.hányad: 120/1966            
+          Szerz.jogcím: kárpótlási árverés
+          Név: Kis-Sólyom Sándorné 
+          Cím: 7300 KOMLÓ, Rákóczi utca 18
+ 
+          Sorszám: 6      Bejegyzõ hat.szám: 30206/14/1994.05.16
+          Tul.hányad: 120/1966            
+          Szerz.jogcím: kárpótlási árverés
+          Név: Hornung Gyula 
+          Cím: 7900 SZIGETVÁR, Zárda utca 5. 1/6.
+ 
+          Sorszám: 9      Bejegyzõ hat.szám: 37340/1998.08.05
+          Tul.hányad: 119/1966            
+          Szerz.jogcím: adásvétel
+          Név: Brückner Attila 
+          Cím: 7300 KOMLÓ, Vértanúk utca 10
+ 
+          Sorszám: 12      Bejegyzõ hat.szám: 38838/2012.12.15
+          Tul.hányad: 1488/1966           
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           ,  
+ 
+          Sorszám: 15      Bejegyzõ hat.szám: 33525/2013.07.17
+          Tul.hányad: 119/1966            
+          Szerz.jogcím: öröklés
+          Név: Kése Melinda 
+          Cím: 7625 PÉCS, Bessenyei utca 10.
+ 
+********************************************************************************************** 
+1276 GYÖNGYÖSMELLÉK KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :            27   
+TERÜLET  ÖSSZESEN (ha.m2) :       94.2109   
+KTJ. ÖSSZESEN (K.f./fill.):        555.77 
+********************************************************************************************** 
+1276 GYÖNGYÖSMELLÉK FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :            27   
+TERÜLET  ÖSSZESEN (ha.m2) :       94.2109   
+KTJ. ÖSSZESEN (K.f./fill.):        555.77 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.13 09:40:38

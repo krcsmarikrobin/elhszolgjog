@@ -1,0 +1,138 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/187/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Mohácsi Zoltán
+    DATUM: 2019.03.13 09:57:45 
+**********************************************************************************************
+ 1291 NEMESKE   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     037/20   
+          .   szántó                              21.9663              666.46          
+                            ------------------------------------------------------------------
+                                     1             7.9711              277.39        
+                                     2            13.9952              389.07        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     21.9663              666.46          
+   
+   Széljegyzett jogosultak
+          Név:Mozsgai Józsefné 
+            Cím:7981 NEMESKE,Fõ utca 49
+   
+          Név:Melles Árpád 
+            Cím:8200 VESZPRÉM,Hóvirág utca 17
+   
+          Név:Horváth Jánosné 
+            Cím:7981 NEMESKE,Fõ utca 17/B
+   
+          Név:Werner Hirsch 
+            Cím:7981 MERENYE,Kossuth utca 24
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 31870/1999.02.22
+          Tul.hányad: 3738/66646          
+          Szerz.jogcím: részarány kiadás
+          Név: Bata Kálmánné 
+          Cím: 7624 PÉCS, Rodostó utca 14.
+ 
+          Sorszám: 8      Bejegyzõ hat.szám: 34041/2002.04.02
+          Tul.hányad: 6537/66646          
+          Szerz.jogcím: öröklés
+          Név: Horváth Jánosné 
+          Cím: 7981 NEMESKE, Fõ utca 17/B
+ 
+          Sorszám: 9      Bejegyzõ hat.szám: 34041/2002.04.02
+          Tul.hányad: 6537/66646          
+          Szerz.jogcím: öröklés
+          Név: Melles Árpád 
+          Cím: 8200 VESZPRÉM, Hóvirág utca 17
+ 
+          Sorszám: 14      Bejegyzõ hat.szám: 37609/2009.12.17
+          Tul.hányad: 4676/66646          
+          Szerz.jogcím: tartás
+          Név: Mozsgai Józsefné 
+          Cím: 7981 NEMESKE, Fõ utca 49
+ 
+          Sorszám: 16      Bejegyzõ hat.szám: 32306/2014.05.05
+          Tul.hányad: 26537/66646         
+          Szerz.jogcím: adásvétel
+          Név: Werner Hirsch 
+          Cím: 7981 MERENYE, Kossuth utca 24
+ 
+          Sorszám: 17      Bejegyzõ hat.szám: 32308/2014.05.05
+          Tul.hányad: 10175/66646         
+          Szerz.jogcím: részarány kiadás
+          Név: Mozsgai Józsefné 
+          Cím: 7981 NEMESKE, Fõ utca 49
+ 
+          Sorszám: 18      Bejegyzõ hat.szám: 32308/2014.05.05
+          Tul.hányad: 6068/66646          
+          Szerz.jogcím: adásvétel
+          Név: Werner Hirsch 
+          Cím: 7981 MERENYE, Kossuth utca 24
+ 
+          Sorszám: 19      Bejegyzõ hat.szám: 30454/2015.01.26
+          Tul.hányad: 2000/66646          
+          Szerz.jogcím: öröklés
+          Név: Tóth Kálmán 
+          Cím: Kanada, 57Rue MapleDollard-Des Ormeaux Quebec H9B 1E6 Canada
+ 
+          Sorszám: 21      Bejegyzõ hat.szám: 31944/2/2017.03.13
+          Tul.hányad: 378/66646           
+          Szerz.jogcím: öröklés
+          Név: Bata Kálmánné 
+          Cím: 7624 PÉCS, Rodostó utca 14.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35762/1995.11.30
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 037/5 hrsz- -bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 37358/1999.10.04
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.kialakítva a 037/18 hrsz-bõl. 
+   
+          Sorszám: 10      Bejegyzõ hat.szám: 37725/2/2012.09.21
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+          Sorszám: 12      Bejegyzõ hat.szám: 32306/2014.05.05
+          Jog-tény neve: Jelzálogjog
+          erejéig  
+            Név: LIMAGRAIN CENTRAL EUROPE SE MAGYARORSZÁGI FIÓKTELEPE
+            Cím: 2040 BUDAÖRS Gyár utca 2.
+           Terheli még a kistamási 018/13, merenyei 0153/1, nagydobszai 099/33, 0103/37, 
+          nemeskei 051/21, somogyhárságyi 0365/3 és a somogyviszlói 066/8 hrsz.-ú 
+          ingatlanokat.,  A III/8. sorszám alatt bejegyzett jelzálogjoggal biztositott 
+          követelést az engedményezõ jogosult a III/9. alatti jogosultra 
+          engedményezte.
+          Utalások: II/16
+   
+ 
+********************************************************************************************** 
+1291 NEMESKE KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       21.9663   
+KTJ. ÖSSZESEN (K.f./fill.):        666.46 
+********************************************************************************************** 
+1291 NEMESKE FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       21.9663   
+KTJ. ÖSSZESEN (K.f./fill.):        666.46 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.13 09:57:48

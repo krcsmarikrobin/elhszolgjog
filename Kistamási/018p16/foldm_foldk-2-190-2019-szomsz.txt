@@ -1,0 +1,193 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/190/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Mohácsi Zoltán
+    DATUM: 2019.03.13 10:58:51 
+**********************************************************************************************
+ 1282 KISTAMÁSI   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     016/     
+          .   kivett                               1.8936                0.00           
+                 országos közút 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.8936                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 93/1960.01.22
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: földrendezés
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34244/2009.07.03
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+           Vezetékjoggal terhelt terület: 14 m2.
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 37725/2/2012.09.21
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+ 
+______________________________________________________________________________________________ 
+     018/4    
+          .   szántó                              26.9245              447.78          
+                            ------------------------------------------------------------------
+                                     2             1.0000               27.80        
+                                     3             6.0000              114.60        
+                                     4            14.0821              232.35        
+                                     5             5.8424               73.03        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     26.9245              447.78          
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 37676/1996.10.04  
+          Kárpótlás
+ 
+   Tulajdonosi adatok
+          Sorszám: 4      Bejegyzõ hat.szám: 30527/2010.02.05
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Bognár Tamás 
+          Cím: 7972 GYÖNGYÖSMELLÉK, Petõfi utca 4.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 37705/1996.10.04
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 018/2 hrsz-bõl. 
+   
+ 
+______________________________________________________________________________________________ 
+     018/12   
+          .   szántó                              10.6512              247.43          
+                            ------------------------------------------------------------------
+                                     2             6.3160              175.58        
+                                     3             0.1253                2.39        
+                                     4             4.2099               69.46        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     10.6512              247.43          
+ 
+   Tulajdonosi adatok
+          Sorszám: 6      Bejegyzõ hat.szám: 32649/2010.06.18
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: öröklés
+          Név: Dorozsmainé Õss Judit Virág 
+          Cím: 7900 SZIGETVÁR, Kárpátok útja 5/1
+ 
+          Sorszám: 7      Bejegyzõ hat.szám: 32649/2010.06.18
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: öröklés
+          Név: Öss Tibor 
+          Cím: 7900 SZIGETVÁR, Szent István lakótelep 11. 1.em.3.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 31348/1999.01.29
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 018/10 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 32181/1999.03.08
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-4        sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+______________________________________________________________________________________________ 
+     018/17   
+          .   szántó                 3             0.3147                6.01           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.3147                6.01          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 36909/2/2018.12.11
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Vajda Attila Dezsõ 
+          Cím: 7900 SZIGETVÁR, Millennium utca 7.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 31044/2014.02.24
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakítva a 018/13 helyrajzi számú földrészletbõl.
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 30498/2/2019.01.22
+          Jog-tény neve: Jelzálogjog
+          és járulékai erejéig 
+            Név: Vajda Dezsõ Gyuláné 
+            Cím: 7900 SZIGETVÁR,Juranics utca 13
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 30498/2/2019.01.22
+          Jog-tény neve: Elidegenítési és terhelési tilalom
+            Név: Vajda Dezsõ Gyuláné 
+            Cím: 7900 SZIGETVÁR,Juranics utca 13
+          Utalások: III/2
+   
+ 
+______________________________________________________________________________________________ 
+     018/16   
+          .   szántó                               3.7395               72.23          
+                            ------------------------------------------------------------------
+                                     2             0.0928                2.58        
+                                     3             3.6467               69.65        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      3.7395               72.23          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 31044/2014.02.24
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: öröklés
+          Név: Berkes Istvánné 
+          Cím: 7900 SZIGETVÁR, Bika András utca 21
+ 
+          Sorszám: 3      Bejegyzõ hat.szám: 32306/2014.05.05
+          Tul.hányad: 1/2                 
+          Szerz.jogcím: adásvétel
+          Név: Werner Hirsch 
+          Cím: 7981 MERENYE, Kossuth utca 24
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 31044/2014.02.24
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakítva a 018/13 helyrajzi számú földrészletbõl.
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 32306/2014.05.05
+          Jog-tény neve: Jelzálogjog
+          erejéig  
+            Név: LIMAGRAIN CENTRAL EUROPE SE MAGYARORSZÁGI FIÓKTELEPE
+            Cím: 2040 BUDAÖRS Gyár utca 2.
+           A III/5. sorszám alatt bejegyzett jelzálogjoggal biztositott követelést az 
+          engedményezõ jogosult  a III/6. alatti jogosultra engedményezte.,  Terheli még a 
+          merenyei 0153/1, nagydobszai 099/33, 0103/37, nemeskei 037/20, 051/21, 
+          somogyhárságyi 0365/3 és a somogyviszlói 066/8 hrsz.-ú ingatlanokat.
+          Utalások: II/3
+   
+ 
+********************************************************************************************** 
+1282 KISTAMÁSI KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       43.5235   
+KTJ. ÖSSZESEN (K.f./fill.):        773.45 
+********************************************************************************************** 
+1282 KISTAMÁSI FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       43.5235   
+KTJ. ÖSSZESEN (K.f./fill.):        773.45 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.13 10:58:57

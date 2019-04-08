@@ -1,0 +1,30 @@
+1,2 
+tervezett HHE-Kistamási-1 CH vezeték
+
+3
+tervezett HHE-Kistamási-D-1 CH közös CH vezeték
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH vezeték
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH mérõ vezeték
+
+tervezett HHE-Kistamási-D-3 CH vezeték
+
+
+tervezett HHE-Kistamási-D-2-HHE-K-3 gyûjtõállomás közös CH vezeték
+tervezett HHE-Kistamási-D-2-HHE-K-3 gyûjtõállomás mérõ CH vezeték
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH vezeték
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH vezeték
+
+
+
+
+a  028/20, 028/4, 028/18 helyrajzi számú földrészletre vonatkozó szolgalmi jog 
+a tervezett HHE-Kistamási-1 CH vezeték,
+tervezett HHE-Kistamási-D-1 közös CH vezeték,
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH vezeték,
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH mérõ vezeték,
+tervezett HHE-Kistamási-D-3 CH vezeték,
+tervezett HHE-Kistamási-D-2-HHE-K-3 gyûjtõállomás közös CH vezeték,
+tervezett HHE-Kistamási-D-2-HHE-K-3 gyûjtõállomás mérõ CH vezeték,
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH vezeték,
+tervezett HHE-Nemeske-2-HHE-K-3 gyûjtõállomás közös CH vezeték,
+elõzetes engedélyezése iránti kérelemhez

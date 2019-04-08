@@ -1,0 +1,68 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/193/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.03.14 02:33:02 
+**********************************************************************************************
+ 1282 KISTAMÁSI   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     028/6    
+          .   kivett                               0.8253                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.8253                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31993/2000.04.04
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7981 KISTAMÁSI, Fõ utca 11.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 42089/1998.12.28
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 028/1 hrsz-bõl. 
+   
+ 
+______________________________________________________________________________________________ 
+     029/     
+          .   kivett                               0.3848                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.3848                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31993/2000.04.04
+          Tul.hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: KISTAMÁSI KÖZSÉG ÖNKORMÁNYZATA
+          Cím: 7981 KISTAMÁSI, Fõ utca 11.
+ 
+********************************************************************************************** 
+1282 KISTAMÁSI KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             2   
+TERÜLET  ÖSSZESEN (ha.m2) :        1.2101   
+KTJ. ÖSSZESEN (K.f./fill.):          0.00 
+********************************************************************************************** 
+1282 KISTAMÁSI FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             2   
+TERÜLET  ÖSSZESEN (ha.m2) :        1.2101   
+KTJ. ÖSSZESEN (K.f./fill.):          0.00 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.03.14 02:33:04

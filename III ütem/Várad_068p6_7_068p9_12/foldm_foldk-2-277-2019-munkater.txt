@@ -1,0 +1,412 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/277/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.04.12 11:04:23 
+**********************************************************************************************
+ 1306 VÁRAD   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     068/6    
+          .   kivett                               0.1734                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.1734                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31720/2001.03.08
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: VÁRAD KÖZSÉGI ÖNKORMÁNYZAT KÉPVISELÕTESTÜLETE
+          Cím: 7973 VÁRAD, Fõ utca 3
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35941/1998.06.16
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv.  kialakitva a 068 hrsz-bõl. 
+   
+ 
+______________________________________________________________________________________________ 
+     068/7    
+          .   legelõ                 2            15.3350              180.95           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     15.3350              180.95          
+   
+   Széljegyzett jogosultak
+          Név:Horváth Ferencné 
+            Cím:7975 KÉTÚJFALU,Rákóczi utca 69
+   
+          Név:Kiss Zsolt 
+            Cím:7973 VÁRAD,Fõ utca 25
+   
+          Név:Lévy József Lászlóné 
+            Cím:7968 FELSÕSZENTMÁRTON,Szent László utca 43.
+   
+          Név:Dr. Majláth József 
+            Cím:7741 ROMONYA,Béke utca 24/3.
+   
+          Név:Horváth Anita 
+            Cím:7971 HOBOL,Asztalos János utca 39.
+ 
+   Tulajdonosi adatok
+          Sorszám: 9      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 20070/180950        
+          Szerz.jogcím: földhöz juttatás
+            részarány kiadás
+          Név: Bogdán Ernõné 
+          Cím: 7973 VÁRAD, Fõ utca 10
+ 
+          Sorszám: 10      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 3110/180950         
+          Szerz.jogcím: részarány kiadás
+          Név: Bogdán Gábor Ernõ 
+          Cím: 7973 VÁRAD, Fõ utca 10
+ 
+          Sorszám: 11      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 3110/180950         
+          Szerz.jogcím: részarány kiadás
+          Név: Szárszó Rolandné 
+          Cím: 7973 BÜRÜS, Alsó utca 6.
+ 
+          Sorszám: 12      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 17650/180950        
+          Szerz.jogcím: részarány kiadás
+          Név: Bogdán Róbert József 
+          Cím: 7973 VÁRAD, Fõ utca 10
+ 
+          Sorszám: 13      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 3110/180950         
+          Szerz.jogcím: részarány kiadás
+          Név: Bogdán Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 10
+ 
+          Sorszám: 16      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 2610/180950         
+          Szerz.jogcím: részarány kiadás
+          Név: Csordás Árpád 
+          Cím: 7900 SZIGETVÁR, Rózsa utca 12
+ 
+          Sorszám: 20      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 8440/180950         
+          Szerz.jogcím: részarány kiadás
+          Név: Horváth Ferencné 
+          Cím: 7975 KÉTÚJFALU, Rákóczi utca 69
+ 
+          Sorszám: 22      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 4970/180950         
+          Szerz.jogcím: földhöz juttatás
+          Név: Jádi József 
+          Cím: 7973 VÁRAD, Újpusztai  40
+ 
+          Sorszám: 30      Bejegyzõ hat.szám: 31115/1999.01.26
+          Tulajdonos hányad: 7010/180950         
+          Szerz.jogcím: ajándékozás
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 31      Bejegyzõ hat.szám: 31116/1999.01.26
+          Tulajdonos hányad: 3590/180950         
+          Szerz.jogcím: adásvétel
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 32      Bejegyzõ hat.szám: 31117/1999.01.26
+          Tulajdonos hányad: 7010/180950         
+          Szerz.jogcím: adásvétel
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 33      Bejegyzõ hat.szám: 31119/1999.01.26
+          Tulajdonos hányad: 7010/180950         
+          Szerz.jogcím: adásvétel
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 34      Bejegyzõ hat.szám: 31121/1999.01.26
+          Tulajdonos hányad: 8830/180950         
+          Szerz.jogcím: adásvétel
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 35      Bejegyzõ hat.szám: 31125/1999.01.26
+          Tulajdonos hányad: 6280/180950         
+          Szerz.jogcím: adásvétel
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 40      Bejegyzõ hat.szám: 35867/2002.05.23
+          Tulajdonos hányad: 2160/180950         
+          Szerz.jogcím: adásvétel
+          Név: Varga Gábor 
+          Cím: 7971 HOBOL, Muskátli utca 12.
+ 
+          Sorszám: 42      Bejegyzõ hat.szám: 30072/2003.01.03
+          Tulajdonos hányad: 2970/180950         
+          Szerz.jogcím: öröklés
+          Név: Darabos Jánosné 
+          Cím: 7630 PÉCS, Koksz utca 11/1.
+ 
+          Sorszám: 44      Bejegyzõ hat.szám: 39714/2006.11.29
+          Tulajdonos hányad: 14550/180950        
+          Szerz.jogcím: ajándékozás
+          Név: Lévy József Lászlóné 
+          Cím: 7968 FELSÕSZENTMÁRTON, Szent László utca 43.
+ 
+          Sorszám: 47      Bejegyzõ hat.szám: 31038/2010.03.04
+          Tulajdonos hányad: 9770/180950         
+          Szerz.jogcím: árverési vétel
+          Név: Dr. Majláth József 
+          Cím: 7741 ROMONYA, Béke utca 24/3.
+ 
+          Sorszám: 48      Bejegyzõ hat.szám: 36993/2/2012.08.02
+          Tulajdonos hányad: 2250/180950         
+          Szerz.jogcím: adásvétel
+          Név: Dr. Majláth József 
+          Cím: 7741 ROMONYA, Béke utca 24/3.
+ 
+          Sorszám: 49      Bejegyzõ hat.szám: 36994/2/2012.08.02
+          Tulajdonos hányad: 2240/180950         
+          Szerz.jogcím: adásvétel
+          Név: Dr. Majláth József 
+          Cím: 7741 ROMONYA, Béke utca 24/3.
+ 
+          Sorszám: 50      Bejegyzõ hat.szám: 33827/2015.10.05
+          Tulajdonos hányad: 8050/180950         
+          Szerz.jogcím: ajándékozás
+          Név: Horváth Anita 
+          Cím: 7971 HOBOL, Asztalos János utca 39.
+ 
+          Sorszám: 51      Bejegyzõ hat.szám: 33752/2015.09.29
+          Tulajdonos hányad: 5110/180950         
+          Szerz.jogcím: öröklés
+          Név: Kalapáti Attiláné 
+          Cím: 7900 SZIGETVÁR, Alapi Gáspár utca 5
+ 
+          Sorszám: 52      Bejegyzõ hat.szám: 34205/2015.11.05
+          Tulajdonos hányad: 9387/180950         
+          Szerz.jogcím: végrendeleti öröklés
+          Név: Bogdán Róbert József 
+          Cím: 7973 VÁRAD, Fõ utca 10
+ 
+          Sorszám: 53      Bejegyzõ hat.szám: 34205/2015.11.05
+          Tulajdonos hányad: 1341/180950         
+          Szerz.jogcím: kötelesrész kielégítése
+          Név: Szárszó Rolandné 
+          Cím: 7973 BÜRÜS, Alsó utca 6.
+           1/10 részben Bogdán Róbert József (1973.anyja neve: Bogdán Erzsébet) 7973. Várad, 
+          Fõ u.10. szám alatti lakos be nem jegyzett tulajdonjogának 
+          feltüntetésével.
+ 
+          Sorszám: 54      Bejegyzõ hat.szám: 34205/2015.11.05
+          Tulajdonos hányad: 1341/180950         
+          Szerz.jogcím: kötelesrész kielégítése
+          Név: Bogdán Gábor Ernõ 
+          Cím: 7973 VÁRAD, Fõ utca 10
+           1/10 részben Bogdán Róbert József (1973.anyja neve: Bogdán Erzsébet) 7973. Várad, 
+          Fõ u.10. szám alatti lakos be nem jegyzett tulajdonjogának 
+          feltüntetésével.
+ 
+          Sorszám: 55      Bejegyzõ hat.szám: 34205/2015.11.05
+          Tulajdonos hányad: 1341/180950         
+          Szerz.jogcím: kötelesrész kielégítése
+          Név: Bogdán Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 10
+           1/10 részben Bogdán Róbert József (1973.anyja neve: Bogdán Erzsébet) 7973. Várad, 
+          Fõ u.10. szám alatti lakos be nem jegyzett tulajdonjogának 
+          feltüntetésével.
+ 
+          Sorszám: 59      Bejegyzõ hat.szám: 31729/2/2016.03.29
+          Tulajdonos hányad: 17640/180950        
+          Szerz.jogcím: adásvétel
+          Név: Horváth Anita 
+          Cím: 7971 HOBOL, Asztalos János utca 39.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35941/1998.06.16
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 068 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 33926/1999.05.18
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-29       sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 8      Bejegyzõ hat.szám: 34205/2015.11.05
+          Jog-tény neve: Özvegyi jog
+            Név: Bogdán Ernõné 
+            Cím: 7973 VÁRAD,Fõ utca 10
+          Utalások: II/52
+   
+ 
+______________________________________________________________________________________________ 
+     068/9    
+          .   legelõ                 2             1.4405               17.00           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.4405               17.00          
+   
+   Széljegyzett jogosultak
+          Név:Lévy József Lászlóné 
+            Cím:7968 FELSÕSZENTMÁRTON,Szent László utca 43.
+   
+          Név:Varga Zoltán 
+            Cím:7975 KÉTÚJFALU,Arany János utca 2.
+   
+          Név:Varga Józsefné 
+            Cím:7975 KÉTÚJFALU,Arany János utca 34
+ 
+   Tulajdonosi adatok
+          Sorszám: 4      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 559/1700            
+          Szerz.jogcím: adásvétel
+          Név: Varga Józsefné 
+          Cím: 7975 KÉTÚJFALU, Arany János utca 34
+ 
+          Sorszám: 5      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 300/1700            
+          Szerz.jogcím: ajándékozás
+          Név: Varga Zoltán 
+          Cím: 7975 KÉTÚJFALU, Arany János utca 2.
+ 
+          Sorszám: 7      Bejegyzõ hat.szám: 32658/2004.04.19
+          Tulajdonos hányad: 356/1700            
+          Szerz.jogcím: adásvétel
+          Név: Varga Zoltán 
+          Cím: 7975 KÉTÚJFALU, Arany János utca 2.
+ 
+          Sorszám: 8      Bejegyzõ hat.szám: 39714/2006.11.29
+          Tulajdonos hányad: 485/1700            
+          Szerz.jogcím: ajándékozás
+          Név: Lévy József Lászlóné 
+          Cím: 7968 FELSÕSZENTMÁRTON, Szent László utca 43.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakitva a 068/5 hrsz-u ingatlanból.
+   
+ 
+______________________________________________________________________________________________ 
+     068/10   
+          .   legelõ                 2             0.7413                8.75           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.7413                8.75          
+ 
+   Tulajdonosi adatok
+          Sorszám: 3      Bejegyzõ hat.szám: 37636/2003.09.17
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: adásvétel
+          Név: Kovács Zoltán János 
+          Cím: 7973 BÜRÜS, Alsó utca 1
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakitva a 068/5 hrsz-u ingatlanból.
+   
+ 
+______________________________________________________________________________________________ 
+     068/11   
+          .   legelõ                 2             0.7046                8.31           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.7046                8.31          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 361/831             
+          Szerz.jogcím: földhöz juttatás
+          Név: Orsós Sándor 
+          Cím: 7973 VÁRAD, Fõ utca 21
+ 
+          Sorszám: 3      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 166/831             
+          Szerz.jogcím: földhöz juttatás
+          Név: Orsós Sándor 
+          Cím: 7973 VÁRAD, Fõ utca 4
+ 
+          Sorszám: 4      Bejegyzõ hat.szám: 31006/2016.02.24
+          Tulajdonos hányad: 152/831             
+          Szerz.jogcím: öröklés
+          Név: Németh József 
+          Cím: 7900 SZIGETVÁR, Damjanich utca 27
+ 
+          Sorszám: 5      Bejegyzõ hat.szám: 31006/2016.02.24
+          Tulajdonos hányad: 152/831             
+          Szerz.jogcím: öröklés
+          Név: Boldizsár Zsuzsanna 
+          Cím: 7900 SZIGETVÁR, Munkás utca 31
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakitva a 068/5 hrsz-u ingatlanból.
+   
+ 
+______________________________________________________________________________________________ 
+     068/12   
+          .   legelõ                 2             0.9744               11.50           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.9744               11.50          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 259/1150            
+          Szerz.jogcím: földhöz juttatás
+          Név: Kiss Istvánné 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 2      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 299/1150            
+          Szerz.jogcím: ajándékozás
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 3      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 355/1150            
+          Szerz.jogcím: adásvétel
+          Név: Kiss Zsolt 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 4      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Tulajdonos hányad: 237/1150            
+          Szerz.jogcím: öröklés
+          Név: Kiss István 
+          Cím: 7973 VÁRAD, Fõ utca 25
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Jog-tény neve: Özvegyi jog
+            Név: Kiss Istvánné 
+            Cím: 7973 VÁRAD,Fõ utca 25
+          Utalások: II/4
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 34977/2003./06.04./
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás következtében kialakitva a 068/5 hrsz-u ingatlanból.
+   
+ 
+********************************************************************************************** 
+1306 VÁRAD KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             6   
+TERÜLET  ÖSSZESEN (ha.m2) :       19.3692   
+KTJ. ÖSSZESEN (K.f./fill.):        226.51 
+********************************************************************************************** 
+1306 VÁRAD FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             6   
+TERÜLET  ÖSSZESEN (ha.m2) :       19.3692   
+KTJ. ÖSSZESEN (K.f./fill.):        226.51 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.04.12 11:04:35

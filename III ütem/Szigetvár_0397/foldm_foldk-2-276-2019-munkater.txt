@@ -1,0 +1,63 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/276/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.04.12 10:51:30 
+**********************************************************************************************
+ 1314 SZIGETVÁR   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0397/     
+          .   kivett                               0.2100                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2100                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 7      Bejegyzõ hat.szám: 31772/2011.03.30
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+           2010. évi LXXXVII. törvény 34. § (2)  A tulajdonosi jogokat és kötelezettségeket 
+          az agrárpolitikáért felelõs miniszter a Nemzeti Földalapkezelõ Szervezet útján 
+          gyakorolja.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 33027/2009.05.14
+          Jog-tény neve: Vezetékjog
+            Név: E.ON DÉL-DUNÁNTÚLI ÁRAMHÁLÓZATI ZRT.
+            Cím: 7626 PÉCS Búza tér 8/A
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 31819/2/2019.04.02
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Felmérési, térképezési és területszámítási hiba kijavítása következtében területe 
+          268 m2-rel  növekedett
+   
+ 
+********************************************************************************************** 
+1314 SZIGETVÁR KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :        0.2100   
+KTJ. ÖSSZESEN (K.f./fill.):          0.00 
+********************************************************************************************** 
+1314 SZIGETVÁR FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :        0.2100   
+KTJ. ÖSSZESEN (K.f./fill.):          0.00 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.04.12 10:51:31

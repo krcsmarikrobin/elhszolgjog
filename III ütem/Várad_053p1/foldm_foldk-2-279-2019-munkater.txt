@@ -1,0 +1,121 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/279/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.04.12 10:15:09 
+**********************************************************************************************
+ 1306 VÁRAD   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     053/1    
+          .   szántó                 3            32.2034              615.08           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     32.2034              615.08          
+   
+   Széljegyzett jogosultak
+          Név:Papp Imre 
+            Cím:7971 HOBOL,Mátyás király utca 41.
+   
+          Név:Kiss Istvánné 
+            Cím:7973 VÁRAD,Fõ utca 25
+   
+          Név:Bognár Tamás 
+            Cím:7972 GYÖNGYÖSMELLÉK,Petõfi utca 4.
+ 
+   Tulajdonosi adatok
+          Sorszám: 5      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 11702/61508         
+          Szerz.jogcím: részarány kiadás
+          Név: Kiss Istvánné 
+          Cím: 7973 VÁRAD, Fõ utca 25
+ 
+          Sorszám: 13      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 5960/61508          
+          Szerz.jogcím: részarány kiadás
+          Név: Tabak László 
+          Cím: 7677 HOBOL, Mátyás király utca 25.
+ 
+          Sorszám: 16      Bejegyzõ hat.szám: 39546/1999.12.27
+          Tulajdonos hányad: 66/61508            
+          Szerz.jogcím: öröklés
+          Név: Makk József 
+          Cím: 0 PÉCS, Nagyszkókói köz 11
+ 
+          Sorszám: 21      Bejegyzõ hat.szám: 39714/2006.11.29
+          Tulajdonos hányad: 275/61508           
+          Szerz.jogcím: ajándékozás
+          Név: Lévy József Lászlóné 
+          Cím: 7968 FELSÕSZENTMÁRTON, Szent László utca 43.
+ 
+          Sorszám: 25      Bejegyzõ hat.szám: 32979/2/2013.06.17
+          Tulajdonos hányad: 137/61508           
+          Szerz.jogcím: adásvétel
+          Név: Bázel-Schneider Éva 
+          Cím: 7976 SZÖRÉNY, Táncsics utca 1.
+ 
+          Sorszám: 26      Bejegyzõ hat.szám: 34761/2013.10.07
+          Tulajdonos hányad: 22/61508            
+          Szerz.jogcím: öröklés
+          Név: Makk Attila 
+          Cím: 2081 PILISCSABA, Kinizsi utca 11.
+ 
+          Sorszám: 27      Bejegyzõ hat.szám: 34761/2013.10.07
+          Tulajdonos hányad: 44/61508            
+          Szerz.jogcím: ajándékozás
+          Név: Makk Béláné 
+          Cím: 7570 BARCS, Bajcsy-Zsilinszky utca 29. II/8.
+ 
+          Sorszám: 28      Bejegyzõ hat.szám: 34250/2/2015.11.11
+          Tulajdonos hányad: 23268/61508         
+          Szerz.jogcím: adásvétel
+          Név: Bognár Tamás 
+          Cím: 7972 GYÖNGYÖSMELLÉK, Petõfi utca 4.
+ 
+          Sorszám: 29      Bejegyzõ hat.szám: 30344/2/2019.01.14
+          Tulajdonos hányad: 20034/61508         
+          Szerz.jogcím: ajándékozás
+          Név: Papp Fanni 
+          Cím: 7971 HOBOL, Mátyás király utca 41.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 35938/1998.06.16
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 053 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 33926/1999.05.18
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-13       sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 6      Bejegyzõ hat.szám: 33045/2012.05.07
+          Jog-tény neve: Földminõsítési mintatér elhelyezését biztosító használati jog
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi tér 9.
+   
+ 
+********************************************************************************************** 
+1306 VÁRAD KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       32.2034   
+KTJ. ÖSSZESEN (K.f./fill.):        615.08 
+********************************************************************************************** 
+1306 VÁRAD FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       32.2034   
+KTJ. ÖSSZESEN (K.f./fill.):        615.08 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.04.12 10:15:11

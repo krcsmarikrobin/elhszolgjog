@@ -1,0 +1,257 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/278/2019 szomsz
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.04.12 10:41:15 
+**********************************************************************************************
+ 1306 VÁRAD   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+     025/     
+          .   kivett                               1.2773                0.00           
+                 Bürös-Váradi-árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      1.2773                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 1      Bejegyzõ hat.szám: 
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: eredeti felvétel
+          Név: MAGYAR ÁLLAM
+          Cím:  - 
+ 
+          Sorszám: 4      Bejegyzõ hat.szám: 35257/4/2018.09.11
+          Tulajdonosi Jogokat Gyakorló Szervezet hányad: 1/1                 
+          Szerz.jogcím: tulajdonosi jogokat gyakorló
+          Név: MAGYAR NEMZETI VAGYONKEZELÕ ZRT.
+          Cím: 1133 BUDAPEST, Pozsonyi út 56.
+           A tulajdonosi jogok és kötelezettségek összességét az állami vagyonról szóló 
+          2007.évi CVI. törvény 3. § (1) bekezdése alapján tulajdonosi joggyakorlóként az MNV 
+          Zrt gyakorolja.
+ 
+          Sorszám: 5      Bejegyzõ hat.szám: 35257/4/2018.09.11
+          Vagyonkezelõ hányad: 1/1                 
+          Szerz.jogcím: jogutódlás
+          Név: DÉL-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
+          Cím: 7623 PÉCS, Köztársaság tér 7
+           Az 1995. évi LVII. törvény 3. §. (5) bekezdése alapján,  
+ 
+______________________________________________________________________________________________ 
+     057/     
+          .   kivett                               5.7120                0.00           
+                 saját használatú út 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      5.7120                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31720/2001.03.08
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: VÁRAD KÖZSÉGI ÖNKORMÁNYZAT KÉPVISELÕTESTÜLETE
+          Cím: 7973 VÁRAD, Fõ utca 3
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 38345/2/1998.11.11
+          Jog-tény neve: Földmérési jelek elhelyezését
+          biztosító használati jog  
+            Név: BARANYA MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+            Cím: 7621 PÉCS Széchenyi István tér 9
+   
+ 
+______________________________________________________________________________________________ 
+     058/     
+          .   erdõ                   3             7.9638               22.30           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      7.9638               22.30          
+ 
+   Tulajdonosi adatok
+          Sorszám: 13      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 194/4334            
+          Szerz.jogcím: részarány kiadás
+          Név: Kiss Erzsébet 
+          Cím: 7973 VÁRAD, Fõ utca 6
+ 
+          Sorszám: 14      Bejegyzõ hat.szám: 33926/1999.05.18
+          Tulajdonos hányad: 194/4334            
+          Szerz.jogcím: részarány kiadás
+          Név: Kiss Zsuzsanna 
+          Cím: 7973 VÁRAD, Fõ utca 6
+ 
+          Sorszám: 24      Bejegyzõ hat.szám: 38943/1996.11.15
+          Tulajdonos hányad: 15/4334             
+          Szerz.jogcím: öröklés
+          Név: Tóth János 
+          Cím: 7975 KÉTÚJFALU, Petõfi Sándor utca 63
+ 
+          Sorszám: 25      Bejegyzõ hat.szám: 38943/1996.11.15
+          Tulajdonos hányad: 15/4334             
+          Szerz.jogcím: öröklés
+          Név: Tóth István 
+          Cím: 7985 NAGYDOBSZA, Hunyadi János utca 61
+ 
+          Sorszám: 28      Bejegyzõ hat.szám: 36625/2001.09.05
+          Tulajdonos hányad: 166/4334            
+          Szerz.jogcím: ajándékozás
+          Név: Vágvölgyi Viktor 
+          Cím: 7900 SZIGETVÁR, Petõfi utca 41
+ 
+          Sorszám: 29      Bejegyzõ hat.szám: 36625/2001.09.05
+          Tulajdonos hányad: 166/4334            
+          Szerz.jogcím: ajándékozás
+          Név: Vágvölgyi Áron 
+          Cím: 7900 SZIGETVÁR, Petõfi utca 41
+ 
+          Sorszám: 41      Bejegyzõ hat.szám: 38253/2007.10.15
+          Tulajdonos hányad: 44/4334             
+          Szerz.jogcím: öröklés
+          Név: Mátyás József 
+          Cím: 7900 SZIGETVÁR, Bajcsy-Zs. utca 20/1
+ 
+          Sorszám: 42      Bejegyzõ hat.szám: 38253/2007.10.15
+          Tulajdonos hányad: 22/4334             
+          Szerz.jogcím: öröklés
+          Név: Mátyás Szabolcs 
+          Cím: 7900 SZIGETVÁR, Görösgali út 5.
+ 
+          Sorszám: 43      Bejegyzõ hat.szám: 38253/2007.10.15
+          Tulajdonos hányad: 22/4334             
+          Szerz.jogcím: öröklés
+          Név: Mátyás Boglárka Szilvia 
+          Cím: 7900 SZIGETVÁR, Ady Endre utca 36.
+ 
+          Sorszám: 46      Bejegyzõ hat.szám: 31479/2008.02.21
+          Tulajdonos hányad: 100/4334            
+          Szerz.jogcím: csere
+          Név: Horváthné Petrovics Katalin 
+          Cím: 7631 PÉCS, Fõ tér 5.
+ 
+          Sorszám: 47      Bejegyzõ hat.szám: 31481/2008.02.21
+          Tulajdonos hányad: 2088/4334           
+          Szerz.jogcím: adásvétel
+          Név: Horváthné Petrovics Katalin 
+          Cím: 7631 PÉCS, Fõ tér 5.
+ 
+          Sorszám: 48      Bejegyzõ hat.szám: 32973/2009.05.13
+          Tulajdonos hányad: 175/4334            
+          Szerz.jogcím: öröklés
+          Név: Füzi Tünde Katalin 
+          Cím: 7477 SZENNA, Tildy Zoltán utca 28
+ 
+          Sorszám: 49      Bejegyzõ hat.szám: 32973/2009.05.13
+          Tulajdonos hányad: 175/4334            
+          Szerz.jogcím: öröklés
+          Név: Sántháné Tamás Ildikó 
+          Cím: 2162 ÕRBOTTYÁN, Hunyadi utca 24.
+ 
+          Sorszám: 50      Bejegyzõ hat.szám: 37633/2009.12.18
+          Tulajdonos hányad: 58/4334             
+          Szerz.jogcím: öröklés
+          Név: Mátyás József 
+          Cím: 7900 SZIGETVÁR, Bajcsy-Zs. utca 20/1
+ 
+          Sorszám: 51      Bejegyzõ hat.szám: 37633/2009.12.18
+          Tulajdonos hányad: 29/4334             
+          Szerz.jogcím: öröklés
+          Név: Mátyás Szabolcs 
+          Cím: 7900 SZIGETVÁR, Görösgali út 5.
+ 
+          Sorszám: 52      Bejegyzõ hat.szám: 37633/2009.12.18
+          Tulajdonos hányad: 29/4334             
+          Szerz.jogcím: öröklés
+          Név: Mátyás Boglárka Szilvia 
+          Cím: 7900 SZIGETVÁR, Ady Endre utca 36.
+ 
+          Sorszám: 53      Bejegyzõ hat.szám: 32302/2/2012.04.03
+          Tulajdonos hányad: 842/4334            
+          Szerz.jogcím: adásvétel
+          Név: Horváthné Petrovics Katalin 
+          Cím: 7631 PÉCS, Fõ tér 5.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 2      Bejegyzõ hat.szám: 33926/1999.05.18
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-23       sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+          Sorszám: 4      Bejegyzõ hat.szám: 36625/2001.09.05
+          Jog-tény neve: Holtig tartó haszonélvezeti jog
+            Név: Fulmer Istvánné 
+            Cím: 7570 BARCS,Bajcsy-Zsilinszky utca 32-34
+          Utalások: II/28-29
+   
+          Sorszám: 7      Bejegyzõ hat.szám: 33982/2/2014.08.28
+          Jog-tény neve: Végrehajtási jog
+          és járulékai erejéig  
+            Név: CITIBANK EUROPE PLC. MAGYARORSZÁGI FIÓKTELEPE
+            Cím: 1051 BUDAPEST Szabadság tér 7.
+           Nemesiné Harth Judit önálló bírósági végrehajtó. Ügyszám: 0305.V.0821/2011/121.
+          Utalások: II/46-47, II/53
+   
+          Sorszám: 10      Bejegyzõ hat.szám: 31597/2/2019.03.20
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Felmérési, térképezési és területszámítási hiba kijavítása következtében területe 
+          2246 m2-rel növekedett
+   
+          Sorszám: 11      Bejegyzõ hat.szám: 31344/4/2019.03.06
+          Jog-tény neve: Végrehajtási jog
+          és járulékai erejéig 
+            Név: GLS GENERAL LOGISTICS SYSTEMS HUNGARY KFT.
+            Cím: 2351 ALSÓNÉMEDI GLS Európa utca 2.
+           dr. Várady Zoltán önálló bírósági végrehajtó,  Vh. ügyszám: 005.V.1041/2018/73
+          Utalások: II/49
+   
+ 
+______________________________________________________________________________________________ 
+     059/     
+          .   kivett                               0.2032                0.00           
+                 saját használatú út 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.2032                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31720/2001.03.08
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: VÁRAD KÖZSÉGI ÖNKORMÁNYZAT KÉPVISELÕTESTÜLETE
+          Cím: 7973 VÁRAD, Fõ utca 3
+ 
+______________________________________________________________________________________________ 
+     060/     
+          .   kivett                               0.3360                0.00           
+                 árok 
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      0.3360                0.00          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 31720/2001.03.08
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: tulajdonba adás
+          Név: VÁRAD KÖZSÉGI ÖNKORMÁNYZAT KÉPVISELÕTESTÜLETE
+          Cím: 7973 VÁRAD, Fõ utca 3
+ 
+********************************************************************************************** 
+1306 VÁRAD KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       15.4923   
+KTJ. ÖSSZESEN (K.f./fill.):         22.30 
+********************************************************************************************** 
+1306 VÁRAD FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             5   
+TERÜLET  ÖSSZESEN (ha.m2) :       15.4923   
+KTJ. ÖSSZESEN (K.f./fill.):         22.30 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.04.12 10:41:23

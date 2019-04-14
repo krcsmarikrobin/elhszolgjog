@@ -1,0 +1,112 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/284/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.04.11 03:28:51 
+**********************************************************************************************
+ 1132 HOBOL   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0709/2    
+          .   szántó                 4            14.0930              245.22           
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:     14.0930              245.22          
+   
+   Széljegyzett jogosultak
+          Név:Varga Éva 
+            Cím:1102 BUDAPEST,Hölgy utca 33. II/2
+ 
+   Szolgalmi jog, Jogi jelleg, Szöveges hivatkozás
+          2.Bejegyzõ határozat: 38099/2001.11.05  
+          Mûvelési ág változás
+ 
+          3.Bejegyzõ határozat: 40298/2006.12.18  
+          Mûvelési ág változás
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 41086/1998.12.01
+          Tulajdonos hányad: 452/17616           
+          Szerz.jogcím: részarány kiadás
+          Név: Joós Gézáné 
+          Cím: 7971 HOBOL, Mátyás király utca 63
+ 
+          Sorszám: 8      Bejegyzõ hat.szám: 35078/2002.04.23
+          Tulajdonos hányad: 1137/17616          
+          Szerz.jogcím: öröklés
+            ajándékozás
+          Név: Varga Éva 
+          Cím: 1102 BUDAPEST, Hölgy utca 33. II/2
+ 
+          Sorszám: 10      Bejegyzõ hat.szám: 37410/2006.09.13
+          Tulajdonos hányad: 1223/17616          
+          Szerz.jogcím: öröklés
+          Név: Fehér Lászlóné 
+          Cím: 7624 PÉCS, Bornemissza utca 10.
+ 
+          Sorszám: 11      Bejegyzõ hat.szám: 37410/2006.09.13
+          Tulajdonos hányad: 1223/17616          
+          Szerz.jogcím: öröklés
+          Név: Nagy László Sándorné 
+          Cím: 7900 SZIGETVÁR, Munkás utca 34
+ 
+          Sorszám: 13      Bejegyzõ hat.szám: 35290/2/2013.11.13
+          Tulajdonos hányad: 6620/17616          
+          Szerz.jogcím: ajándékozás
+          Név: Lantos István Sándorné 
+          Cím: 1041 BUDAPEST, Rózsa utca 63. IV.em.11.
+ 
+          Sorszám: 14      Bejegyzõ hat.szám: 30810/2014.02.14
+          Tulajdonos hányad: 427/17616           
+          Szerz.jogcím: öröklés
+          Név: Nagy József 
+          Cím: 6729 SZEGED, Verseci utca 23
+ 
+          Sorszám: 15      Bejegyzõ hat.szám: 30810/2014.02.14
+          Tulajdonos hányad: 427/17616           
+          Szerz.jogcím: öröklés
+          Név: Nagy Csaba 
+          Cím: 6781 DOMASZÉK, Juhász Gyula utca 10
+ 
+          Sorszám: 16      Bejegyzõ hat.szám: 33364/2016.06.21
+          Tulajdonos hányad: 6107/17616          
+          Szerz.jogcím: öröklés
+          Név: Petrányi Józsefné 
+          Cím: 7677 HOBOL, Mátyás király utca 33.
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 30302/1998.01.13
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 0709 hrsz-bõl. 
+   
+          Sorszám: 3      Bejegyzõ hat.szám: 33007/1999.04.12
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2-6        sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+********************************************************************************************** 
+1132 HOBOL KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       14.0930   
+KTJ. ÖSSZESEN (K.f./fill.):        245.22 
+********************************************************************************************** 
+1132 HOBOL FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :       14.0930   
+KTJ. ÖSSZESEN (K.f./fill.):        245.22 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.04.11 03:28:53

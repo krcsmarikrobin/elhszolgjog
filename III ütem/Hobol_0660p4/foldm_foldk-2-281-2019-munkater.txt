@@ -1,0 +1,62 @@
+Megjegyzés :
+              Ha rendesen akarja megnézni vagy kinyomtatni álló A4-re ezt a txt file-ot,
+              akkor Szerkesztés menûben betûtípus COUIER vagy COURIER NEW-(8)-ot 
+              és Fájl menûben javasolt Oldalbeállítás bal-jobb=20mm,felsõ-alsó=5mm
+              kell választani! Helyes beállítás után ezt a megjegyzés kell törölni.
+
+                         -------------------------------------------------- 
+                          F Ö L D K Ö N Y V  F Ö L D R É S Z L E T E K  
+                        TULAJDONOSI ÉS TERHELÉS BEJEGYZÉSEKKEL
+                                    FÖLDMÉRÉSI ÜGY: 2/281/2019 munkater
+                         -------------------------------------------------- 
+
+
+    BAMKH Szigetvári Járási Hivatal,7900 Szigetvár, Kossuth tér 16. Pf.:34.
+    Készitette: Tóth Eszter
+    DATUM: 2019.04.12 09:36:42 
+**********************************************************************************************
+ 1132 HOBOL   KÜLTERÜLET 
+********************************************************************************************** 
+  HRSZ    JEL     Müv.ág        Min.oszt.           Terület(ha.m2)       Kat.jöv.     
+______________________________________________________________________________________________ 
+    0660/4    
+          .   szántó                               3.0173               39.06          
+                            ------------------------------------------------------------------
+                                     4             0.8026               13.97        
+                                     5             1.5979               19.97        
+                                     6             0.6168                5.12        
+          ____________________________________________________________________________________  
+                                    ÖSSZESEN:      3.0173               39.06          
+ 
+   Tulajdonosi adatok
+          Sorszám: 2      Bejegyzõ hat.szám: 41833/1998.12.15
+          Tulajdonos hányad: 1/1                 
+          Szerz.jogcím: részarány kiadás
+          Név: Tóth Istvánné 
+          Cím: 7971 HOBOL, Mátyás király utca 14
+   
+   Jogok-tények jogosultjai
+          Sorszám: 1      Bejegyzõ hat.szám: 32655/1997.03.21
+          Jog-tény neve: Önálló szöveges bejegyzés
+           Megosztás köv. kialakitva a 0660 hrsz-bõl. 
+   
+          Sorszám: 2      Bejegyzõ hat.szám: 33007/1999.04.12
+          Jog-tény neve: Önálló szöveges bejegyzés
+           A II/2         sorszámok részarányki- adás következtében átjegyezve a TSz 
+          különlapokról.
+   
+ 
+********************************************************************************************** 
+1132 HOBOL KÜLTERÜLET   
+----------------------------------------- 
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :        3.0173   
+KTJ. ÖSSZESEN (K.f./fill.):         39.06 
+********************************************************************************************** 
+1132 HOBOL FEKVÉSEK ÖSSZEVONVA : 
+-----------------------------------------   
+FÖLDRÉSZLETEK ÖSSZESEN    :             1   
+TERÜLET  ÖSSZESEN (ha.m2) :        3.0173   
+KTJ. ÖSSZESEN (K.f./fill.):         39.06 
+                                                   ***    L I S T A       V É G E  ***  
+    Futás vége: 2019.04.12 09:36:43
